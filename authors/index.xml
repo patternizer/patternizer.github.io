@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
+    <title>Authors on Home</title>
     <link>https://patternizer.github.io/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <description>Recent content in Authors on Home</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>{year}</copyright>
+    <copyright>{2019}</copyright>
     
 	    <atom:link href="https://patternizer.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
