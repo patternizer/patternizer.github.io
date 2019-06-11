@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home</title>
-    <link>https://patternizer.github.io/authors/admin/</link>
-    <description>Recent content on Home</description>
+    <title>Academic</title>
+    <link>/authors/admin/</link>
+    <description>Recent content on Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>{2019}</copyright>
     
-	    <atom:link href="https://patternizer.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://patternizer.github.io/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://patternizer.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Born in Liverpool, England, in 1970. He studied pure &amp;amp; applied physics at the University of Manchester Institute of Science and Technology (UMIST) and graduated in 1992. He received his Ph.D. in applied mathematics (theoretical fusion physics) in 1996 from the Mathematics Institute of Saint Andrews University, Scotland. He has 15 years postgraduate research experience in the fields of remote sensing, atmospheric physics, space physics, astrophysics and open science in the UK, Spain &amp;amp; Greece. He is currently a member of the European Geosciences Union and a Researcher at the University of Reading working for the &lt;a href=&#34;http://www.fiduceo.eu/&#34; target=&#34;_blank&#34;&gt;Horizon 2020 FIDUCEO project&lt;/a&gt;.&lt;/p&gt;
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>
     </item>
     

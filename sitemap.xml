@@ -3,48 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://patternizer.github.io/authors/admin/</loc>
-    <lastmod>2019-06-10T01:03:25+01:00</lastmod>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>https://patternizer.github.io/authors/</loc>
-    <lastmod>2019-06-10T01:03:25+01:00</lastmod>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://patternizer.github.io/categories/</loc>
+    <loc>/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://patternizer.github.io/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://patternizer.github.io/post/</loc>
-    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>https://patternizer.github.io/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://patternizer.github.io/publication/</loc>
-    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+    <loc>/publication/</loc>
   </url>
   
   <url>
-    <loc>https://patternizer.github.io/talk/</loc>
-    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+    <loc>/talk/</loc>
   </url>
   
   <url>
-    <loc>https://patternizer.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
