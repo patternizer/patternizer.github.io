@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ocean on Academic</title>
+    <title>Ocean on Academic</title>
     <link>https://patternizer.github.io/tags/ocean/</link>
-    <description>Recent content in ocean on Academic</description>
+    <description>Recent content in Ocean on Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>2019</copyright>
@@ -18,8 +18,7 @@
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://patternizer.github.io/project/ocean_area/</guid>
-      <description>&lt;p&gt;Calculation of the high resolution latitudinal variation of ocean + sea ice area using the L4 landsea mask produced with the OSTIA reanalysis sytem v3.0&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
