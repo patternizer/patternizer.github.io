@@ -3,12 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://patternizer.github.io/authors/admin/</loc>
+    <loc>https://patternizer.github.io/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://patternizer.github.io/</loc>
+    <loc>https://patternizer.github.io/tags/earth/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/project/ocean_area/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/project/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/tags/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/tags/ocean/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/tags/python/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/authors/admin/</loc>
   </url>
   
   <url>
@@ -36,11 +72,6 @@
   
   <url>
     <loc>https://patternizer.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://patternizer.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
