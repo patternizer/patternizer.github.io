@@ -7,18 +7,24 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>2019</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://patternizer.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://patternizer.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Ten priority science gaps in assessing climate data record quality</title>
+      <link>https://patternizer.github.io/publication/journal-article/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://patternizer.github.io/publication/preprint/</guid>
+      <guid>https://patternizer.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
@@ -29,18 +35,12 @@
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://patternizer.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>An example preprint / working paper</title>
+      <link>https://patternizer.github.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://patternizer.github.io/publication/journal-article/</guid>
+      <guid>https://patternizer.github.io/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
@@ -75,7 +75,7 @@
     <item>
       <title></title>
       <link>https://patternizer.github.io/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://patternizer.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I was born in Liverpool, England in 1970 when the monthly mean CO₂ concentration was 325.68 ± 0.12 ppm. I studied pure &amp;amp; applied physics at the University of Manchester Institute of Science and Technology (UMIST) and graduated with a BSc (I:hons) in 1992. I obtained a PhD in applied mathematics in 1996 from the Mathematics Institute of Saint Andrews University, Scotland. I have 15 years postgraduate research experience in the fields of Earth observation and remote sensing. I am currently a member of the European Geosciences Union and the Royal Statistical Society and am doing a postdoc in the Department of Meteorology at the University of Reading where I work for the Horizon 2020 &lt;a href=&#34;http://www.fiduceo.eu/&#34; target=&#34;_blank&#34;&gt;FIDUCEO project&lt;/a&gt;.&lt;/p&gt;
