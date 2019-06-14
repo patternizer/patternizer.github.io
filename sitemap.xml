@@ -4,7 +4,29 @@
   
   <url>
     <loc>https://patternizer.github.io/</loc>
-    <lastmod>2019-06-12T12:00:00+00:00</lastmod>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/project/plot_l1c/</loc>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/project/</loc>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/tags/</loc>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/tags/plot_l1c/</loc>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -27,17 +49,6 @@
   <url>
     <loc>https://patternizer.github.io/project/ocean_area/</loc>
     <lastmod>2019-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://patternizer.github.io/project/</loc>
-    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://patternizer.github.io/tags/</loc>
-    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
