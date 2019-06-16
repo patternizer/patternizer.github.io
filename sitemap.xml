@@ -216,7 +216,7 @@
   </url>
   
   <url>
-    <loc>https://patternizer.github.io/publication/2019-mdpi-egypt/</loc>
+    <loc>https://patternizer.github.io/publication/2019-mdpi-ssr-egypt/</loc>
     <lastmod>2018-11-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -247,6 +247,35 @@
   <url>
     <loc>https://patternizer.github.io/authors/stelios-kazadzis/</loc>
     <lastmod>2018-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/authors/alkiviadis-f.-bais/</loc>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/publication/2019-amt-ssr-assessment/</loc>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/authors/chris-kiranoudis/</loc>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/authors/iphigenia-keramitsoglou/</loc>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/authors/panagiotis-i.-raptis/</loc>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

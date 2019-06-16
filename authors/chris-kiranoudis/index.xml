@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stelios Kazadzis on Patternizer</title>
-    <link>https://patternizer.github.io/authors/stelios-kazadzis/</link>
-    <description>Recent content in Stelios Kazadzis on Patternizer</description>
+    <title>Chris Kiranoudis on Patternizer</title>
+    <link>https://patternizer.github.io/authors/chris-kiranoudis/</link>
+    <description>Recent content in Chris Kiranoudis on Patternizer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;Blogdown&lt;/a&gt; website materials on &lt;a href=&#34;https://github.com/patternizer/patternizer.github.io&#34;&gt;GitHub&lt;/a&gt;.</copyright>
-    <lastBuildDate>Fri, 23 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://patternizer.github.io/authors/stelios-kazadzis/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://patternizer.github.io/authors/chris-kiranoudis/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Earth observation-based estimation and forecasting of particulate matter impact on solar energy in Egypt</title>
-      <link>https://patternizer.github.io/publication/2019-mdpi-ssr-egypt/</link>
-      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://patternizer.github.io/publication/2019-mdpi-ssr-egypt/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Assessment of surface solar irradiance derived from real-time modelling techniques and verification with ground-based measurements</title>
