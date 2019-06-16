@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Patternizer</title>
-    <link>https://patternizer.github.io/publication_types/2/</link>
-    <description>Recent content in 2 on Patternizer</description>
+    <title>Antonis Gkikas on Patternizer</title>
+    <link>https://patternizer.github.io/authors/antonis-gkikas/</link>
+    <description>Recent content in Antonis Gkikas on Patternizer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;Blogdown&lt;/a&gt; website materials on &lt;a href=&#34;https://github.com/patternizer/patternizer.github.io&#34;&gt;GitHub&lt;/a&gt;.</copyright>
-    <lastBuildDate>Thu, 25 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://patternizer.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://patternizer.github.io/authors/antonis-gkikas/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Ten priority science gaps in assessing climate data record quality</title>
-      <link>https://patternizer.github.io/publication/2019-mdpi-gaps/</link>
-      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://patternizer.github.io/publication/2019-mdpi-gaps/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Earth observation-based estimation and forecasting of particulate matter impact on solar energy in Egypt</title>
