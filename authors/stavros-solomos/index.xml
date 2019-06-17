@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Panagiotis I. Raptis on Patternizer</title>
-    <link>https://patternizer.github.io/authors/panagiotis-i.-raptis/</link>
-    <description>Recent content in Panagiotis I. Raptis on Patternizer</description>
+    <title>Stavros Solomos on Patternizer</title>
+    <link>https://patternizer.github.io/authors/stavros-solomos/</link>
+    <description>Recent content in Stavros Solomos on Patternizer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;Blogdown&lt;/a&gt; website materials on &lt;a href=&#34;https://github.com/patternizer/patternizer.github.io&#34;&gt;GitHub&lt;/a&gt;.</copyright>
-    <lastBuildDate>Thu, 15 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://patternizer.github.io/authors/panagiotis-i.-raptis/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://patternizer.github.io/authors/stavros-solomos/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Assessment of surface solar irradiance derived from real-time modelling techniques and verification with ground-based measurements</title>
-      <link>https://patternizer.github.io/publication/2019-amt-ssr-assessment/</link>
-      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://patternizer.github.io/publication/2019-amt-ssr-assessment/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Dust impact on surface solar irradiance assessed with modelsimulations, satellite observations and ground-based measurements</title>
