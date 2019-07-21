@@ -21,5 +21,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Metrological requirements for QA of ozone datasets at the Climate Data Store</title>
+      <link>https://patternizer.github.io/talk/lotus-wmo-eqco/</link>
+      <pubDate>Tue, 18 Sep 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://patternizer.github.io/talk/lotus-wmo-eqco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimisation of piecewise linear trend fitting of porous ozone time series with LOESS sum of sines and Monte-Carlo SSA</title>
+      <link>https://patternizer.github.io/talk/lotus-wmo-loess/</link>
+      <pubDate>Tue, 18 Sep 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://patternizer.github.io/talk/lotus-wmo-loess/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
