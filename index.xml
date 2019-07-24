@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;Blogdown&lt;/a&gt; website materials on &lt;a href=&#34;https://github.com/patternizer/patternizer.github.io&#34;&gt;GitHub&lt;/a&gt;.</copyright>
-    <lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://patternizer.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Practical machine learning based on cloud computing resources</title>
+      <link>https://patternizer.github.io/publication/2019-aip-machine-learning/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://patternizer.github.io/publication/2019-aip-machine-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Plot L1C orbits</title>

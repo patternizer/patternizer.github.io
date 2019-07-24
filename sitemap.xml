@@ -3,8 +3,95 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://patternizer.github.io/authors/admin/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/publication_types/1/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/authors/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/authors/christos-m.-michail/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/authors/evangelia-pappa/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/authors/george-e.-karpetas/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/authors/john-filos/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/authors/kyriakos-n.-agavanakis/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/authors/lamprini-kontopoulou/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://patternizer.github.io/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/publication/2019-aip-machine-learning/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/publication_types/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/publication/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/tags/source-themes/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/tags/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/authors/varvara-trachana/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -16,12 +103,6 @@
   <url>
     <loc>https://patternizer.github.io/project/</loc>
     <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://patternizer.github.io/tags/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -52,18 +133,7 @@
   </url>
   
   <url>
-    <loc>https://patternizer.github.io/authors/admin/</loc>
-    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://patternizer.github.io/publication_types/2/</loc>
-    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patternizer.github.io/authors/</loc>
     <lastmod>2019-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -123,24 +193,7 @@
   </url>
   
   <url>
-    <loc>https://patternizer.github.io/publication_types/</loc>
-    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patternizer.github.io/publication/</loc>
-    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://patternizer.github.io/authors/sarah-douglas/</loc>
-    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patternizer.github.io/tags/source-themes/</loc>
     <lastmod>2019-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -534,12 +587,6 @@
   <url>
     <loc>https://patternizer.github.io/authors/ulla-wandinger/</loc>
     <lastmod>2013-12-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patternizer.github.io/publication_types/1/</loc>
-    <lastmod>2010-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

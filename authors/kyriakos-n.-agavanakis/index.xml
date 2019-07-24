@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Patternizer</title>
-    <link>https://patternizer.github.io/publication_types/1/</link>
-    <description>Recent content in 1 on Patternizer</description>
+    <title>Kyriakos N. Agavanakis on Patternizer</title>
+    <link>https://patternizer.github.io/authors/kyriakos-n.-agavanakis/</link>
+    <description>Recent content in Kyriakos N. Agavanakis on Patternizer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;Blogdown&lt;/a&gt; website materials on &lt;a href=&#34;https://github.com/patternizer/patternizer.github.io&#34;&gt;GitHub&lt;/a&gt;.</copyright>
     <lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://patternizer.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://patternizer.github.io/authors/kyriakos-n.-agavanakis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://patternizer.github.io/publication/2019-aip-machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards a unified source-propagation model of cosmic rays</title>
-      <link>https://patternizer.github.io/publication/2010-pasp-cosmic-rays/</link>
-      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://patternizer.github.io/publication/2010-pasp-cosmic-rays/</guid>
       <description></description>
     </item>
     
