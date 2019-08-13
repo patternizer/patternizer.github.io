@@ -3,6 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://patternizer.github.io/project/multimode/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/project/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/tags/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patternizer.github.io/tags/multimode/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://patternizer.github.io/authors/admin/</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
   </url>
@@ -56,12 +84,6 @@
   </url>
   
   <url>
-    <loc>https://patternizer.github.io/</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://patternizer.github.io/publication/2019-aip-machine-learning/</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
   </url>
@@ -84,12 +106,6 @@
   </url>
   
   <url>
-    <loc>https://patternizer.github.io/tags/</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://patternizer.github.io/authors/varvara-trachana/</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -97,11 +113,6 @@
   
   <url>
     <loc>https://patternizer.github.io/project/plot_l1c/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://patternizer.github.io/project/</loc>
     <lastmod>2019-06-14T00:00:00+00:00</lastmod>
   </url>
   
