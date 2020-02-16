@@ -762,9 +762,22 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">This paper reports on the development of a neural network (NN) model for instantaneous and accurate estimation of solar radiation spectra and budgets geared toward satellite cloud data using a ~ 2.4 M record, high-spectral resolution look up table (LUT) generated with the radiative transfer model libRadtran. Two NN solvers, one for clear sky conditions dominated by aerosol and one for cloudy skies, were trained on a normally-distributed and multiparametric subset of the LUT that spans a very broad class of atmospheric and meteorological conditions as inputs with corresponding high resolution solar irradiance target spectra as outputs. The NN solvers were tested by feeding them with a large (10 K record) ?off-grid? random subset of the LUT spanning the training data space, and then comparing simulated outputs with target values provided by the LUT. The NN solvers demonstrated a capability to interpolate accurately over the entire multiparametric space. Once trained, the NN solvers allow for high-speed estimation of solar radiation spectra with high spectral resolution (1 nm) and for a quantification of the effect of aerosol and cloud optical parameters on the solar radiation budget without the need for a massive database. The cloudy sky NN solver was applied to high spatial resolution (54 K pixel) cloud data extracted from the Spinning Enhanced Visible and Infrared Imager (SEVIRI) onboard the geostationary Meteosat Second Generation 3 (MSG3) satellite and demonstrated that coherent maps of spectrally-integrated global horizontal irradiance at this resolution can be produced on the order of 1 min.</p>
-    
-
+    <p class="pub-abstract" itemprop="text">
+      This paper reports on the development of a neural network (NN) model for instantaneous and accurate estimation 
+      of solar radiation spectra and budgets geared toward satellite cloud data using a ~ 2.4 M record, high-spectral 
+      resolution look up table (LUT) generated with the radiative transfer model libRadtran. Two NN solvers, one for 
+      clear sky conditions dominated by aerosol and one for cloudy skies, were trained on a normally-distributed and 
+      multiparametric subset of the LUT that spans a very broad class of atmospheric and meteorological conditions as 
+      inputs with corresponding high resolution solar irradiance target spectra as outputs. The NN solvers were tested 
+      by feeding them with a large (10 K record) off-grid random subset of the LUT spanning the training data space, 
+      and then comparing simulated outputs with target values provided by the LUT. The NN solvers demonstrated a 
+      capability to interpolate accurately over the entire multiparametric space. Once trained, the NN solvers allow 
+      for high-speed estimation of solar radiation spectra with high spectral resolution (1 nm) and for a quantification 
+      of the effect of aerosol and cloud optical parameters on the solar radiation budget without the need for a massive 
+      database. The cloudy sky NN solver was applied to high spatial resolution (54 K pixel) cloud data extracted from 
+      the Spinning Enhanced Visible and Infrared Imager (SEVIRI) onboard the geostationary Meteosat Second Generation 3 
+      (MSG3) satellite and demonstrated that coherent maps of spectrally-integrated global horizontal irradiance at this 
+      resolution can be produced on the order of 1 min.</p>
     
     <div class="row">
       <div class="col-md-1"></div>
