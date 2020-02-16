@@ -762,9 +762,25 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">We report on the construction of generic models to calculate photosynthetically active radiation (PAR) from global horizontal irradiance (GHI), and vice versa. Our study took place at stations of the Greek UV network (UVNET) and the Hellenic solar energy network (HNSE) with measurements from NILU-UV multi-filter radiometers and CM pyranometers, chosen due to their long (~1M record/site) high temporal resolution (1 min) record that captures a broad range of atmospheric environments and cloudiness conditions. The uncertainty of the PAR measurements is quantified to be +/- 6.5\% while the uncertainty involved in GHI measurements is up to ~ +/- 7\% according to the manufacturer. We show how multi-linear regression and nonlinear neural network (NN) models, trained at a calibration site (Thessaloniki) can be made generic provided that the input-output time series are processed with multi-channel singular spectrum analysis (M-SSA). Without M-SSA, both linear and nonlinear models perform well only locally. M-SSA with 50 time-lags is found to be sufficient for identification of trend, periodic and noise components in aerosol, cloud parameters and irradiance, and to construct regularized noise models of PAR from GHI irradiances. Reconstructed PAR and GHI time series capture ~ 95\% of the variance of the cross-validated target measurements and have median absolute percentage errors &lt; 2\%. The intra-site median absolute error of M-SSA processed models were ~ 8.2 +/- 1.7 W/m2 for PAR and ~ 9.2 +/- 4.2 W/m2 for GHI. When applying the models trained at Thessaloniki to other stations, the average absolute mean bias between the model estimates and measured values was found to be ~ 1.2 W/m2 for PAR and ~ 0.8 W/m2 for GHI. For the models, percentage errors are well within the uncertainty of the measurements at all sites. Generic NN models were found to perform marginally better than their linear counterparts.</p>
-    
-
+    <p class="pub-abstract" itemprop="text">
+      We report on the construction of generic models to calculate photosynthetically active radiation (PAR) 
+      from global horizontal irradiance (GHI), and vice versa. Our study took place at stations of the Greek 
+      UV network (UVNET) and the Hellenic solar energy network (HNSE) with measurements from NILU-UV multi-filter 
+      radiometers and CM pyranometers, chosen due to their long (~1M record/site) high temporal resolution (1 min) 
+      record that captures a broad range of atmospheric environments and cloudiness conditions. The uncertainty of 
+      the PAR measurements is quantified to be ± 6.5% while the uncertainty involved in GHI measurements is up 
+      to ~ ± 7% according to the manufacturer. We show how multi-linear regression and nonlinear neural network 
+      (NN) models, trained at a calibration site (Thessaloniki) can be made generic provided that the input-output 
+      time series are processed with multi-channel singular spectrum analysis (M-SSA). Without M-SSA, both linear 
+      and nonlinear models perform well only locally. M-SSA with 50 time-lags is found to be sufficient for 
+      identification of trend, periodic and noise components in aerosol, cloud parameters and irradiance, and to 
+      construct regularized noise models of PAR from GHI irradiances. Reconstructed PAR and GHI time series 
+      capture ~ 95% of the variance of the cross-validated target measurements and have median absolute percentage 
+      errors &lt; 2%. The intra-site median absolute error of M-SSA processed models were ~ 8.2 ± 1.7 W/m² for PAR 
+      and ~ 9.2 ± 4.2 W/m² for GHI. When applying the models trained at Thessaloniki to other stations, the average 
+      absolute mean bias between the model estimates and measured values was found to be ~ 1.2 W/m² for PAR and ~ 0.8 W/m² 
+      for GHI. For the models, percentage errors are well within the uncertainty of the measurements at all sites. 
+      Generic NN models were found to perform marginally better than their linear counterparts.</p>
     
     <div class="row">
       <div class="col-md-1"></div>
