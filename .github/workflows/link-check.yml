@@ -1,0 +1,36 @@
+name: Link check
+
+on:
+  pull_request:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0 3 * * 1"   # Mondays at 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  internal-links:
+    name: Internal links (offline)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run lychee for local/internal links
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --offline --no-progress --verbose --max-concurrency 8 "./**/*.html" "./**/*.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  external-links:
+    name: External links (web)
+    # Only run on weekly schedule or when manually triggered to avoid PR noise
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run lychee for external links
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --no-progress --verbose --max-concurrency 8 --retry-wait-time 2 --retry-count 2 --accept 200..=299,403 --exclude "https://translate.google.com/.*" "./**/*.html" "./**/*.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
