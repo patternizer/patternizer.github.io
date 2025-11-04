@@ -1,0 +1,706 @@
+[
+  {
+    "name": "Lowestoft, UK",
+    "desc": "Work – Centre for Environment, Fisheries & Aquaculture Science (CEFAS), Lowestoft, UK",
+    "coords": [
+      52.47663,
+      1.75376
+    ]
+  },
+  {
+    "name": "Norwich, UK",
+    "desc": "Work – Climatic Research Unit, UEA, Norwich, UK",
+    "coords": [
+      52.62856,
+      1.2924
+    ]
+  },
+  {
+    "name": "Reading, UK",
+    "desc": "Work – Department of Meteorology, Univesity of Reading, Reading, UK",
+    "coords": [
+      51.4515,
+      -0.98363
+    ]
+  },
+  {
+    "name": "Space & Atmospheric Physics Group, Blackett Laboratory, Imperial College, London, UK, United Kingdom",
+    "desc": "Work – Space & Atmospheric Physics Group, Blackett Laboratory, Imperial College, London, UK",
+    "coords": [
+      40.00795,
+      -105.26838
+    ]
+  },
+  {
+    "name": "Government Fusion Division, Culham Laboratory, Oxford, UK, United Kingdom",
+    "desc": "Work – Government Fusion Division, Culham Laboratory, Oxford, UK",
+    "coords": [
+      22.2764,
+      114.1562
+    ]
+  },
+  {
+    "name": "Geological Society, London, UK",
+    "desc": "Talk – RMetS Data Rescue: Discovery and recovery of historic climate observations",
+    "coords": [
+      51.50864,
+      -0.13878
+    ]
+  },
+  {
+    "name": "Greenbelt, Maryland, USA",
+    "desc": "Talk – NASA GES-DISC Invited Talk",
+    "coords": [
+      39.00461,
+      -76.87568
+    ]
+  },
+  {
+    "name": "Climatic Research Unit, UEA, Norwich, UK",
+    "desc": "Talk – GloSAT Annual Meeting: Estimating Normals (Part I)",
+    "coords": [
+      52.62176,
+      1.23857
+    ]
+  },
+  {
+    "name": "Climatic Research Unit, UEA, Norwich, UK",
+    "desc": "Talk – GloSAT Annual Meeting: Estimating Normals (Part II)",
+    "coords": [
+      52.62176,
+      1.23857
+    ]
+  },
+  {
+    "name": "Norwich, UK",
+    "desc": "Project – Global Fire Dashboard",
+    "coords": [
+      52.62856,
+      1.2924
+    ]
+  },
+  {
+    "name": "London, UK",
+    "desc": "Project – CUSSH Cities",
+    "coords": [
+      51.48933,
+      -0.14406
+    ]
+  },
+  {
+    "name": "University of East Anglia",
+    "desc": "Publication – GloSAT LATsdb: A global compilation of land air temperature station records with updated climatological normals from local expectation kriging",
+    "coords": [
+      52.62106,
+      1.23562
+    ]
+  },
+  {
+    "name": "University of York",
+    "desc": "Publication – GloSAT LATsdb: A global compilation of land air temperature station records with updated climatological normals from local expectation kriging",
+    "coords": [
+      53.94539,
+      -1.03146
+    ]
+  },
+  {
+    "name": "Met Office",
+    "desc": "Publication – GloSAT LATsdb: A global compilation of land air temperature station records with updated climatological normals from local expectation kriging",
+    "coords": [
+      50.72702,
+      -3.47516
+    ]
+  },
+  {
+    "name": "Met Office",
+    "desc": "Publication – An observational record of global gridded near surface air temperature change over land and ocean from 1781",
+    "coords": [
+      50.72702,
+      -3.47516
+    ]
+  },
+  {
+    "name": "National Oceanography Centre",
+    "desc": "Publication – An observational record of global gridded near surface air temperature change over land and ocean from 1781",
+    "coords": [
+      50.89263,
+      -1.3947
+    ]
+  },
+  {
+    "name": "University of York",
+    "desc": "Publication – An observational record of global gridded near surface air temperature change over land and ocean from 1781",
+    "coords": [
+      53.94539,
+      -1.03146
+    ]
+  },
+  {
+    "name": "National Centre for Atmospheric Science",
+    "desc": "Publication – An observational record of global gridded near surface air temperature change over land and ocean from 1781",
+    "coords": [
+      55.95088,
+      -3.19561
+    ]
+  },
+  {
+    "name": "University of Reading",
+    "desc": "Publication – An observational record of global gridded near surface air temperature change over land and ocean from 1781",
+    "coords": [
+      43.67524,
+      -79.38861
+    ]
+  },
+  {
+    "name": "University of East Anglia",
+    "desc": "Publication – An observational record of global gridded near surface air temperature change over land and ocean from 1781",
+    "coords": [
+      52.62106,
+      1.23562
+    ]
+  },
+  {
+    "name": "University of Edinburgh",
+    "desc": "Publication – An observational record of global gridded near surface air temperature change over land and ocean from 1781",
+    "coords": [
+      55.94408,
+      -3.18837
+    ]
+  },
+  {
+    "name": "University of East Anglia",
+    "desc": "Publication – Quantifying exposure biases in early instrumental land surface air temperature observations",
+    "coords": [
+      52.62106,
+      1.23562
+    ]
+  },
+  {
+    "name": "National Centre for Atmospheric Science",
+    "desc": "Publication – Quantifying exposure biases in early instrumental land surface air temperature observations",
+    "coords": [
+      55.95088,
+      -3.19561
+    ]
+  },
+  {
+    "name": "University of Reading",
+    "desc": "Publication – Quantifying exposure biases in early instrumental land surface air temperature observations",
+    "coords": [
+      43.67524,
+      -79.38861
+    ]
+  },
+  {
+    "name": "University of Bristol",
+    "desc": "Publication – The Bristol CMIP6 Data Hackathon",
+    "coords": [
+      51.49056,
+      -2.63048
+    ]
+  },
+  {
+    "name": "University of Exeter",
+    "desc": "Publication – The Bristol CMIP6 Data Hackathon",
+    "coords": [
+      50.17016,
+      -5.12418
+    ]
+  },
+  {
+    "name": "University of Strathclyde",
+    "desc": "Publication – The Bristol CMIP6 Data Hackathon",
+    "coords": [
+      55.86188,
+      -4.24196
+    ]
+  },
+  {
+    "name": "University of Leeds",
+    "desc": "Publication – The Bristol CMIP6 Data Hackathon",
+    "coords": [
+      53.80579,
+      -1.55511
+    ]
+  },
+  {
+    "name": "International Institute for Applied Systems Analysis",
+    "desc": "Publication – The Bristol CMIP6 Data Hackathon",
+    "coords": [
+      48.06827,
+      16.35817
+    ]
+  },
+  {
+    "name": "Rutherford Appleton Laboratory",
+    "desc": "Publication – Validation of OMI erythemal doses with multi-sensor ground-based measurements in Thessaloniki, Greece",
+    "coords": [
+      51.57086,
+      -1.3155
+    ]
+  },
+  {
+    "name": "UK Research and Innovation",
+    "desc": "Publication – Validation of OMI erythemal doses with multi-sensor ground-based measurements in Thessaloniki, Greece",
+    "coords": [
+      51.56701,
+      -1.78463
+    ]
+  },
+  {
+    "name": "Aristotle University of Thessaloniki",
+    "desc": "Publication – Validation of OMI erythemal doses with multi-sensor ground-based measurements in Thessaloniki, Greece",
+    "coords": [
+      40.62967,
+      22.95915
+    ]
+  },
+  {
+    "name": "University of Reading",
+    "desc": "Publication – Validation of OMI erythemal doses with multi-sensor ground-based measurements in Thessaloniki, Greece",
+    "coords": [
+      43.67524,
+      -79.38861
+    ]
+  },
+  {
+    "name": "Finnish Meteorological Institute",
+    "desc": "Publication – Validation of OMI erythemal doses with multi-sensor ground-based measurements in Thessaloniki, Greece",
+    "coords": [
+      60.20369,
+      24.96128
+    ]
+  },
+  {
+    "name": "Colorado State University",
+    "desc": "Publication – NILU-UV multi-filter radiometer total ozone columns: Comparison with satellite observations over Thessaloniki, Greece",
+    "coords": [
+      40.57066,
+      -105.0854
+    ]
+  },
+  {
+    "name": "Aristotle University of Thessaloniki",
+    "desc": "Publication – NILU-UV multi-filter radiometer total ozone columns: Comparison with satellite observations over Thessaloniki, Greece",
+    "coords": [
+      40.62967,
+      22.95915
+    ]
+  },
+  {
+    "name": "Royal Belgian Institute for Space Aeronomy",
+    "desc": "Publication – NILU-UV multi-filter radiometer total ozone columns: Comparison with satellite observations over Thessaloniki, Greece",
+    "coords": [
+      50.79704,
+      4.35675
+    ]
+  },
+  {
+    "name": "Aristotle University of Thessaloniki",
+    "desc": "Publication – Dust impact on surface solar irradiance assessed with model simulations, satellite observations and ground-based measurements",
+    "coords": [
+      40.62967,
+      22.95915
+    ]
+  },
+  {
+    "name": "University of Patras",
+    "desc": "Publication – Dust impact on surface solar irradiance assessed with model simulations, satellite observations and ground-based measurements",
+    "coords": [
+      38.28693,
+      21.78511
+    ]
+  },
+  {
+    "name": "Aristotle University of Thessaloniki",
+    "desc": "Publication – TEMIS UV product validation using NILU-UV ground-based measurements in Thessaloniki, Greece",
+    "coords": [
+      40.62967,
+      22.95915
+    ]
+  },
+  {
+    "name": "Colorado State University",
+    "desc": "Publication – TEMIS UV product validation using NILU-UV ground-based measurements in Thessaloniki, Greece",
+    "coords": [
+      40.57066,
+      -105.0854
+    ]
+  },
+  {
+    "name": "Royal Netherlands Meteorological Institute",
+    "desc": "Publication – TEMIS UV product validation using NILU-UV ground-based measurements in Thessaloniki, Greece",
+    "coords": [
+      52.10056,
+      5.17749
+    ]
+  },
+  {
+    "name": "Colorado State University",
+    "desc": "Publication – Modeling the relationship between photosynthetically active radiation and global horizontal irradiance using singular spectrum analysis",
+    "coords": [
+      40.57066,
+      -105.0854
+    ]
+  },
+  {
+    "name": "Aristotle University of Thessaloniki",
+    "desc": "Publication – Modeling the relationship between photosynthetically active radiation and global horizontal irradiance using singular spectrum analysis",
+    "coords": [
+      40.62967,
+      22.95915
+    ]
+  },
+  {
+    "name": "National and Kapodistrian University of Athens",
+    "desc": "Publication – Particulate Matter Estimation from Photochemistry: A Modelling Approach Using Neural Networks and Synoptic Clustering",
+    "coords": [
+      37.97004,
+      23.76524
+    ]
+  },
+  {
+    "name": "National Technical University of Athens",
+    "desc": "Publication – Neural network radiative transfer solvers for the generation of high resolution solar irradiance spectra parameterized by cloud and aerosol parameters",
+    "coords": [
+      37.98785,
+      23.73183
+    ]
+  },
+  {
+    "name": "Goddard Space Flight Center",
+    "desc": "Publication – Global aerosol mixtures and their multiyear and seasonal characteristics",
+    "coords": [
+      38.99983,
+      -76.84586
+    ]
+  },
+  {
+    "name": "University of Ioannina",
+    "desc": "Publication – Satellite retrieval of aerosol microphysical and optical parameters using neural networks: a new methodology applied to the Sahara desert dust peak",
+    "coords": [
+      39.61566,
+      20.84126
+    ]
+  },
+  {
+    "name": "Universidad de Granada",
+    "desc": "Publication – Rankings are the sorcerer’s new apprentice",
+    "coords": [
+      37.1809,
+      -3.60001
+    ]
+  },
+  {
+    "name": "Universitat Jaume I",
+    "desc": "Publication – Rankings are the sorcerer’s new apprentice",
+    "coords": [
+      39.99431,
+      -0.0714
+    ]
+  },
+  {
+    "name": "Aristotle University of Thessaloniki",
+    "desc": "Publication – Rankings are the sorcerer’s new apprentice",
+    "coords": [
+      40.62967,
+      22.95915
+    ]
+  },
+  {
+    "name": "University of Georgia",
+    "desc": "Publication – Rankings are the sorcerer’s new apprentice",
+    "coords": [
+      33.94043,
+      -83.37305
+    ]
+  },
+  {
+    "name": "Hellenic Open University",
+    "desc": "Publication – Rankings are the sorcerer’s new apprentice",
+    "coords": [
+      38.20657,
+      21.76794
+    ]
+  },
+  {
+    "name": "Leibniz Institute for Tropospheric Research",
+    "desc": "Publication – Optimizing CALIPSO Saharan dust retrievals",
+    "coords": [
+      54.33828,
+      10.15614
+    ]
+  },
+  {
+    "name": "Finnish Meteorological Institute",
+    "desc": "Publication – Optimizing CALIPSO Saharan dust retrievals",
+    "coords": [
+      60.20369,
+      24.96128
+    ]
+  },
+  {
+    "name": "Universitat Politècnica de Catalunya",
+    "desc": "Publication – Optimizing CALIPSO Saharan dust retrievals",
+    "coords": [
+      41.22145,
+      1.73014
+    ]
+  },
+  {
+    "name": "Barcelona Supercomputing Center",
+    "desc": "Publication – Optimizing CALIPSO Saharan dust retrievals",
+    "coords": [
+      41.38978,
+      2.11638
+    ]
+  },
+  {
+    "name": "University of Ioannina",
+    "desc": "Publication – Optimizing CALIPSO Saharan dust retrievals",
+    "coords": [
+      39.61566,
+      20.84126
+    ]
+  },
+  {
+    "name": "Universidad de Granada",
+    "desc": "Publication – Academic self-publishing: a not-so-distant future",
+    "coords": [
+      37.1809,
+      -3.60001
+    ]
+  },
+  {
+    "name": "West Virginia University",
+    "desc": "Publication – Volterra network modeling of the nonlinear finite‐impulse reponse of the radiation belt flux",
+    "coords": [
+      39.63484,
+      -79.95421
+    ]
+  },
+  {
+    "name": "Universitat Jaume I",
+    "desc": "Publication – Understanding the role of open peer review and dynamic academic articles",
+    "coords": [
+      39.99431,
+      -0.0714
+    ]
+  },
+  {
+    "name": "Universidad de Granada",
+    "desc": "Publication – Understanding the role of open peer review and dynamic academic articles",
+    "coords": [
+      37.1809,
+      -3.60001
+    ]
+  },
+  {
+    "name": "Technische Universität Berlin",
+    "desc": "Publication – Understanding the role of open peer review and dynamic academic articles",
+    "coords": [
+      52.51102,
+      13.32695
+    ]
+  },
+  {
+    "name": "National Hellenic Research Foundation",
+    "desc": "Publication – Understanding the role of open peer review and dynamic academic articles",
+    "coords": [
+      37.97311,
+      23.74575
+    ]
+  },
+  {
+    "name": "Universidad de Granada",
+    "desc": "Publication – Natural selection of academic papers",
+    "coords": [
+      37.1809,
+      -3.60001
+    ]
+  },
+  {
+    "name": "Technische Universität Berlin",
+    "desc": "Publication – Natural selection of academic papers",
+    "coords": [
+      52.51102,
+      13.32695
+    ]
+  },
+  {
+    "name": "National Hellenic Research Foundation",
+    "desc": "Publication – Natural selection of academic papers",
+    "coords": [
+      37.97311,
+      23.74575
+    ]
+  },
+  {
+    "name": "Universidad de Granada",
+    "desc": "Publication – KARDIA: A Matlab software for the analysis of cardiac interbeat intervals",
+    "coords": [
+      37.1809,
+      -3.60001
+    ]
+  },
+  {
+    "name": "Universidade Federal do Rio de Janeiro",
+    "desc": "Publication – KARDIA: A Matlab software for the analysis of cardiac interbeat intervals",
+    "coords": [
+      -22.85335,
+      -43.23317
+    ]
+  },
+  {
+    "name": "Institut des Sciences Cognitives",
+    "desc": "Publication – KARDIA: A Matlab software for the analysis of cardiac interbeat intervals",
+    "coords": [
+      45.74681,
+      4.89774
+    ]
+  },
+  {
+    "name": "Centre National de la Recherche Scientifique",
+    "desc": "Publication – KARDIA: A Matlab software for the analysis of cardiac interbeat intervals",
+    "coords": [
+      45.78046,
+      4.87496
+    ]
+  },
+  {
+    "name": "Consejo Superior de Investigaciones Científicas",
+    "desc": "Publication – Tutorial: Exact Solutions for the Populations of the n-level Ion",
+    "coords": [
+      40.44071,
+      -3.6874
+    ]
+  },
+  {
+    "name": "Universidad de Granada",
+    "desc": "Publication – Breathing frequency bias in fractal analysis of heart rate variability",
+    "coords": [
+      37.1809,
+      -3.60001
+    ]
+  },
+  {
+    "name": "Aristotle University of Thessaloniki",
+    "desc": "Publication – Breathing frequency bias in fractal analysis of heart rate variability",
+    "coords": [
+      40.62967,
+      22.95915
+    ]
+  },
+  {
+    "name": "Consejo Superior de Investigaciones Científicas",
+    "desc": "Publication – The siege of science",
+    "coords": [
+      40.44071,
+      -3.6874
+    ]
+  },
+  {
+    "name": "Centro Nacional de Biotecnología",
+    "desc": "Publication – The siege of science",
+    "coords": [
+      40.54462,
+      -3.69012
+    ]
+  },
+  {
+    "name": "Universidad de Granada",
+    "desc": "Publication – Measuring internationality: Reflections and perspectives on academic journals",
+    "coords": [
+      37.1809,
+      -3.60001
+    ]
+  },
+  {
+    "name": "Universidad Autónoma de Madrid",
+    "desc": "Publication – Measuring internationality: Reflections and perspectives on academic journals",
+    "coords": [
+      40.54538,
+      -3.69496
+    ]
+  },
+  {
+    "name": "University of St Andrews",
+    "desc": "Publication – Wave propagation through cyclotron resonance in the presence of large Larmor radius ions",
+    "coords": [
+      56.33982,
+      -2.81179
+    ]
+  },
+  {
+    "name": "Culham Centre for Fusion Energy",
+    "desc": "Publication – Wave propagation through cyclotron resonance in the presence of large Larmor radius ions",
+    "coords": [
+      51.65767,
+      -1.22621
+    ]
+  },
+  {
+    "name": "University of St Andrews",
+    "desc": "Publication – Wave propagation through cyclotron resonance in the presence of large Larmor radius particles",
+    "coords": [
+      56.33982,
+      -2.81179
+    ]
+  },
+  {
+    "name": "Culham Centre for Fusion Energy",
+    "desc": "Publication – Wave propagation through cyclotron resonance in the presence of large Larmor radius particles",
+    "coords": [
+      51.65767,
+      -1.22621
+    ]
+  },
+  {
+    "name": "Aristotle University of Thessaloniki",
+    "desc": "Publication – Anthropogenic sulphur dioxide load over China as observed from different satellite sensors",
+    "coords": [
+      40.62967,
+      22.95915
+    ]
+  },
+  {
+    "name": "Royal Netherlands Meteorological Institute",
+    "desc": "Publication – Anthropogenic sulphur dioxide load over China as observed from different satellite sensors",
+    "coords": [
+      52.10056,
+      5.17749
+    ]
+  },
+  {
+    "name": "Royal Belgian Institute for Space Aeronomy",
+    "desc": "Publication – Anthropogenic sulphur dioxide load over China as observed from different satellite sensors",
+    "coords": [
+      50.79704,
+      4.35675
+    ]
+  },
+  {
+    "name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+    "desc": "Publication – Anthropogenic sulphur dioxide load over China as observed from different satellite sensors",
+    "coords": [
+      52.31512,
+      10.56405
+    ]
+  },
+  {
+    "name": "University of Bremen",
+    "desc": "Publication – Anthropogenic sulphur dioxide load over China as observed from different satellite sensors",
+    "coords": [
+      53.10796,
+      8.85566
+    ]
+  },
+  {
+    "name": "Goddard Space Flight Center",
+    "desc": "Publication – Anthropogenic sulphur dioxide load over China as observed from different satellite sensors",
+    "coords": [
+      38.99983,
+      -76.84586
+    ]
+  }
+]

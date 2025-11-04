@@ -1,0 +1,230 @@
+{
+  "Lowestoft, UK": {
+    "lat": 52.4766308,
+    "lon": 1.7537638
+  },
+  "Norwich, UK": {
+    "lat": 52.6285576,
+    "lon": 1.2923954
+  },
+  "NAO, SOI": {
+    "lat": 17.8859437,
+    "lon": 102.7685278
+  },
+  "London, UK": {
+    "lat": 51.4893335,
+    "lon": -0.1440551
+  },
+  "Geological Society, London, UK": {
+    "lat": 51.5086375,
+    "lon": -0.1387827
+  },
+  "Greenbelt, Maryland, USA": {
+    "lat": 39.004607,
+    "lon": -76.8756838
+  },
+  "A, Beijing, China": {
+    "lat": 39.984434,
+    "lon": 116.2923287
+  },
+  "B, Delhi, India": {
+    "lat": 28.6606777,
+    "lon": 77.0088018
+  },
+  "C, Adelaide, Australia": {
+    "lat": -34.7126622,
+    "lon": 138.6172302
+  },
+  "Reading, UK": {
+    "lat": 51.4514953,
+    "lon": -0.9836342
+  },
+  "Space & Atmospheric Physics": {
+    "lat": 40.0079459,
+    "lon": -105.2683827
+  },
+  "Government Fusion": {
+    "lat": 22.2764024,
+    "lon": 114.1561956
+  },
+  "Climatic Research": {
+    "lat": 52.6217595,
+    "lon": 1.2385671
+  },
+  "University of East Anglia": {
+    "lat": 52.6210623,
+    "lon": 1.2356187
+  },
+  "University of York": {
+    "lat": 53.9453903,
+    "lon": -1.0314593
+  },
+  "Met Office": {
+    "lat": 50.7270226,
+    "lon": -3.4751568
+  },
+  "National Oceanography Centre": {
+    "lat": 50.8926271,
+    "lon": -1.3947018
+  },
+  "National": {
+    "lat": 55.950885,
+    "lon": -3.1956117
+  },
+  "University of Reading": {
+    "lat": 43.675243,
+    "lon": -79.388612
+  },
+  "University of Edinburgh": {
+    "lat": 55.9440765,
+    "lon": -3.1883736
+  },
+  "University of Bristol": {
+    "lat": 51.4905582,
+    "lon": -2.6304825
+  },
+  "University of Exeter": {
+    "lat": 50.1701604,
+    "lon": -5.1241802
+  },
+  "University of Strathclyde": {
+    "lat": 55.8618812,
+    "lon": -4.2419566
+  },
+  "University of Leeds": {
+    "lat": 53.8057925,
+    "lon": -1.555111
+  },
+  "International Institute for Applied Systems Analysis": {
+    "lat": 48.0682722,
+    "lon": 16.3581708
+  },
+  "Rutherford Appleton Laboratory": {
+    "lat": 51.570862,
+    "lon": -1.315498
+  },
+  "UK Research and Innovation": {
+    "lat": 51.5670069,
+    "lon": -1.7846349
+  },
+  "Aristotle University of Thessaloniki": {
+    "lat": 40.6296719,
+    "lon": 22.9591469
+  },
+  "Finnish Meteorological Institute": {
+    "lat": 60.2036887,
+    "lon": 24.9612813
+  },
+  "Colorado State University": {
+    "lat": 40.5706567,
+    "lon": -105.0853995
+  },
+  "Royal Belgian Institute for Space Aeronomy": {
+    "lat": 50.7970378,
+    "lon": 4.3567451
+  },
+  "University of Patras": {
+    "lat": 38.2869279,
+    "lon": 21.7851062
+  },
+  "Royal Netherlands Meteorological Institute": {
+    "lat": 52.1005619,
+    "lon": 5.1774887
+  },
+  "National and Kapodistrian University of Athens": {
+    "lat": 37.970038,
+    "lon": 23.7652367
+  },
+  "National Technical University of Athens": {
+    "lat": 37.9878502,
+    "lon": 23.7318258
+  },
+  "Goddard Space Flight Center": {
+    "lat": 38.9998313,
+    "lon": -76.8458613
+  },
+  "University of Ioannina": {
+    "lat": 39.6156591,
+    "lon": 20.8412647
+  },
+  "Universidad de Granada": {
+    "lat": 37.1809009,
+    "lon": -3.6000115
+  },
+  "Universitat Jaume I": {
+    "lat": 39.994312,
+    "lon": -0.0713962
+  },
+  "University of Georgia": {
+    "lat": 33.9404278,
+    "lon": -83.373049
+  },
+  "Hellenic Open University": {
+    "lat": 38.2065694,
+    "lon": 21.7679368
+  },
+  "Leibniz": {
+    "lat": 54.3382814,
+    "lon": 10.156137
+  },
+  "Universitat Politècnica de Catalunya": {
+    "lat": 41.2214474,
+    "lon": 1.7301449
+  },
+  "Barcelona Supercomputing Center": {
+    "lat": 41.3897809,
+    "lon": 2.1163849
+  },
+  "West Virginia University": {
+    "lat": 39.6348398,
+    "lon": -79.9542095
+  },
+  "Technische Universität Berlin": {
+    "lat": 52.5110159,
+    "lon": 13.3269541
+  },
+  "National Hellenic Research Foundation": {
+    "lat": 37.9731127,
+    "lon": 23.745748
+  },
+  "Universidade Federal do Rio de Janeiro": {
+    "lat": -22.8533498,
+    "lon": -43.2331703
+  },
+  "Institut des Sciences Cognitives": {
+    "lat": 45.7468063,
+    "lon": 4.8977407
+  },
+  "Centre National de la Recherche Scientifique": {
+    "lat": 45.7804582,
+    "lon": 4.874957
+  },
+  "Consejo Superior de Investigaciones Científicas": {
+    "lat": 40.4407145,
+    "lon": -3.6874014
+  },
+  "Centro Nacional de Biotecnología": {
+    "lat": 40.5446242,
+    "lon": -3.690119
+  },
+  "Universidad Autónoma de Madrid": {
+    "lat": 40.5453765,
+    "lon": -3.6949578
+  },
+  "University of St Andrews": {
+    "lat": 56.3398198,
+    "lon": -2.8117937
+  },
+  "Culham Centre for Fusion Energy": {
+    "lat": 51.6576683,
+    "lon": -1.2262126
+  },
+  "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)": {
+    "lat": 52.3151172,
+    "lon": 10.5640535
+  },
+  "University of Bremen": {
+    "lat": 53.1079646,
+    "lon": 8.8556646
+  }
+}
