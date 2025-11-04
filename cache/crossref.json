@@ -1,0 +1,856 @@
+{
+  "10.5194/amt-11-2377-2018": null,
+  "10.5194/amt-7-2013-2014": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          9
+        ]
+      ],
+      "date-time": "2025-06-09T11:26:32Z",
+      "timestamp": 1749468392896,
+      "version": "3.37.3"
+    },
+    "reference-count": 32,
+    "publisher": "Copernicus GmbH",
+    "issue": "7",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              7,
+              4
+            ]
+          ],
+          "date-time": "2014-07-04T00:00:00Z",
+          "timestamp": 1404432000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/3.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100000780",
+        "name": "European Commission",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "300515"
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000780",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Atmos. Meas. Tech."
+    ],
+    "abstract": "<jats:p>Abstract. Synchronized sun-photometric measurements from the AERONET-CIMEL (AErosol RObotic NETwork) and GAW-PFR (Global Atmospheric Watch–Precision Filter Radiometer) aerosol networks are used to compare retrievals of the aerosol optical depth (AOD), effective radius, and volume concentration during a high-temporal-resolution measurement campaign at the Athens site in the Mediterranean Basin from 14 to 22 July 2009. During this period, direct-sun AOD retrievals from both instruments exhibited small differences in the range 0.01–0.02. The AODs measured with CIMEL and PFR instruments were inverted to retrieve particle microphysical properties using the linear estimation (LE) technique. For low aerosol loads (AOD &lt; 0.2), measurements of the effective radius by the PFR were found to be −20% to +30% different from CIMEL values for both direct-sun data and inversion data. At higher loads (AOD &gt; 0.4), measurements of the effective radius by the PFR are consistently 20 % lower than CIMEL for both direct-sun and inversion data. Volume concentrations at low aerosol loads from the PFR are up to 80% higher than the CIMEL for direct-sun data but are up to 20% lower when derived from inversion data under these same conditions. At higher loads, the percentage difference in volume concentrations from the PFR and CIMEL is systematically negative, with inversion data predicting differences 30% lower than those obtained from direct-sun data.  An assessment of the effect of errors in the AOD retrieval on the estimation of PFR bulk parameters was performed and demonstrates that it is possible to estimate the particle volume concentration and effective radius with an uncertainty &lt; 65% when AOD &lt; 0.2 and when input errors are as high as 10%.\n                    </jats:p>",
+    "DOI": "10.5194/amt-7-2013-2014",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2014-07-04T13:08:38Z",
+      "timestamp": 1404479318000
+    },
+    "page": "2013-2025",
+    "source": "Crossref",
+    "is-referenced-by-count": 18,
+    "title": [
+      "Aerosol microphysical retrievals from precision filter radiometer direct solar radiation measurements and comparison with AERONET"
+    ],
+    "prefix": "10.5194",
+    "volume": "7",
+    "author": [
+      {
+        "given": "S.",
+        "family": "Kazadzis",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "I.",
+        "family": "Veselovskii",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1544-7812",
+        "authenticated-orcid": false,
+        "given": "V.",
+        "family": "Amiridis",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1549-2525",
+        "authenticated-orcid": false,
+        "given": "J.",
+        "family": "Gröbner",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "A.",
+        "family": "Suvorina",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "S.",
+        "family": "Nyeki",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8579-8562",
+        "authenticated-orcid": false,
+        "given": "E.",
+        "family": "Gerasopoulos",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "N.",
+        "family": "Kouremeti",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3473-3478",
+        "authenticated-orcid": false,
+        "given": "M.",
+        "family": "Taylor",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "A.",
+        "family": "Tsekeri",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "C.",
+        "family": "Wehrli",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "3145",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          4
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "unstructured": "Bohren, C. F. and Huffman, D. R.: Absorption and Scattering of Light by Small Particles, John Wiley, Hoboken, NJ, 1983."
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "De Graaf, M., Donovan, D., and Apituley, A.: Feasibility study of integral property retrieval for tropospheric aerosol from Raman lidar data using principal component analysis, Appl. Opt., 52, 2173–2186, 2013.",
+        "DOI": "10.1364/AO.52.002173"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Donovan, D. and Carswell, A.: Principal component analysis applied to multiwavelength lidar aerosol backscatter and extinction measurements, Appl. Opt., 36, 9406–9424, 1997.",
+        "DOI": "10.1364/AO.36.009406"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dubovik, O. and King, M. D.: A flexible inversion algorithm for retrieval of aerosol optical properties from Sun and sky radiance measurements, J. Geophys. Res., 105, 20673–20696, 2000.",
+        "DOI": "10.1029/2000JD900282"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dubovik, O., Smirnov, A., Holben, B. N., King, M. D., Kaufman, Y. J., Eck, T. F., and Slutsker, I.: Accuracy assessments of aerosol optical properties retrieved from Aerosol Robotic Network (AERONET) Sun and sky radiance measurements, J. Geophys. Res., 105, 9791–9806, https://doi.org/10.1029/2000JD900040, 2000.",
+        "DOI": "10.1029/2000JD900040"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dubovik, O., Holben, B., Eck, T. F., Smirnov, A., Kaufman, Y. J., King, M. D., Tanré, D., and Slutsker, I.: Variability of absorption and optical properties of key aerosol types observed in worldwide locations, J. Atmos. Sci., 59, 590–608, 2002.",
+        "DOI": "10.1175/1520-0469(2002)059<0590:VOAAOP>2.0.CO;2"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dubovik, O., Sinyuk, A., Lapyonok, T., Holben, B. N., Mishchenko, M., Yang, P., Eck, T. F., Volten, H., Muñoz, O., Veihelmann, B., van der Zande, W. J., Leon, J.-F., Sorokin, M., and Slutsker, I.: Application of spheroid models to account for aerosol particle nonsphericity in remote sensing of desert dust, J. Geophys. Res., 111, D11208, https://doi.org/10.1029/2005JD006619, 2006.",
+        "DOI": "10.1029/2005JD006619"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fotiadi, A., Hatzianastassiou, N., Drakakis, E., Matsoukas, C., Pavlakis, K. G., Hatzidimitriou, D., Gerasopoulos, E., Mihalopoulos, N., and Vardavas, I.: Aerosol physical and optical properties in the Eastern Mediterranean Basin, Crete, from Aerosol Robotic Network data, Atmos. Chem. Phys., 6, 5399–5413, https://doi.org/10.5194/acp-6-5399-2006, 2006.",
+        "DOI": "10.5194/acp-6-5399-2006"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gerasopoulos, E., Koulouri, E., Kalivitis, N., Kouvarakis, G., Saarikoski, S., Mäkelä, T., Hillamo, R., and Mihalopoulos, N.: Size-segregated mass distributions of aerosols over Eastern Mediterranean: seasonal variability and comparison with AERONET columnar size-distributions, Atmos. Chem. Phys., 7, 2551–2561, https://doi.org/10.5194/acp-7-2551-2007, 2007.",
+        "DOI": "10.5194/acp-7-2551-2007"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gerasopoulos, E., Amiridis, V., Kazadzis, S., Kokkalis, P., Eleftheratos, K., Andreae, M. O., Andreae, T. W., El-Askary, H., and Zerefos, C. S.: Three-year ground based measurements of aerosol optical depth over the Eastern Mediterranean: the urban environment of Athens, Atmos. Chem. Phys., 11, 2145–2159, https://doi.org/10.5194/acp-11-2145-2011, 2011.",
+        "DOI": "10.5194/acp-11-2145-2011"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hansen, J., Nazarenko, L., Ruedy, R., Sato, M., Willis, J., Del Genio, A., Koch, D., Lacis, A., Lo, K., Menon, S., Novakov, T., Perlwitz, J., Russell, G., Schmidt, G. A., and Tausnev, N.: Earth's energy imbalance: Confirmation and implications, Science, 308, 1431–1435, https://doi.org/10.1126/science.1110252, 2005.",
+        "DOI": "10.1126/science.1110252"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hansen, J., Sato, M., Lacis, A., and Ruedy, R.: The missing climate forcing, Phil. Trans. Royal Soc. London B, 352, 231–240, 1997.",
+        "DOI": "10.1098/rstb.1997.0018"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Haywood, J. M., Johnson, B. T., Osborne, S. R., Baran, A. J., Brooks, M., Milton, S. F., Mulcahy, J., Walters, D., Allan, R. P., Klaver, A., Formenti, P., Brindley, H. E., Christopher, S., AND Gupta, P.: Motivation, rationale and key results from the GERBILS Saharan dust measurement campaign, Q. J. R. Meteorol. Soc., 137, 1106–1116, 2011.",
+        "DOI": "10.1002/qj.797"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Holben, B. N., Eck, T. F., Slutsker, I., Tanre, D., Buis, J. P., Setzer, A., Vermote, E., Reagan, J. A., Kaufman, Y., Nakajima, T., Lavenu, F., Jankowiak, I., and Smirnov, A.: AERONET – a federated instrument network and data archive for aerosol characterization, Remote Sens. Environ., 66, 1–16, 1998.",
+        "DOI": "10.1016/S0034-4257(98)00031-5"
+      },
+      {
+        "key": "ref15",
+        "unstructured": "IPCC: Climate Change 2007 – The Physical Science Basis: Contribution of the Working Group I to the Fourth Assessment Report of the IPCC, Cambridge University Press, New York, NY, USA, 2007."
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "King, M. D., Byrne, D. M., Herman, B. M., and Reagan, J. A.: Aerosol size distributions obtained by inversion of spectral optical depth measurements, J. Atmos. Sci., 35, 2153–2167, 1978.",
+        "DOI": "10.1175/1520-0469(1978)035<2153:ASDOBI>2.0.CO;2"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lopatin, A., Dubovik, O., Chaikovsky, A., Goloub, P., Lapyonok, T., Tanré, D., and Litvinov, P.: Enhancement of aerosol characterization using synergy of lidar and sun-photometer coincident observations: the GARRLiC algorithm, Atmos. Meas. Tech., 6, 2065–2088, https://doi.org/10.5194/amt-6-2065-2013, 2013.",
+        "DOI": "10.5194/amt-6-2065-2013"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "McArthur, L. J. B., Halliwell, D. H., Niebergall, O. J., O'Neill, N. T., Slusser, J. R., and Wehrli, C.: Field comparison of network sunphotometers. J. Geophys. Res., 108, 4596, https://doi.org/10.1029/2002JD002964, 2003.",
+        "DOI": "10.1029/2002JD002964"
+      },
+      {
+        "key": "ref19",
+        "unstructured": "Mishchenko, M. I., Travis, L. D., and Lacis, A. A.: Multiple Scattering of Light by Particles, Radiative Transfer and Coherent Backscattering, Cambridge University Press, 2006."
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mishchenko, M. I., Geogdzhayev, I. V., Rossow, W. B., Cairns, B., Carlson, B. E., Lacis, A. A., Liu, L., and Travis, L. D.: Long-term satellite record reveals likely recent aerosol trend, Science, 315, 1543–1543, 2007.",
+        "DOI": "10.1126/science.1136709"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Müller, D., Wandinger, U., and Ansmann, A.: Microphysical particle parameters from extinction and backscatter lidar data by inversion with regularization: theory, Appl. Opt., 38, 2346–2357, 1999.",
+        "DOI": "10.1364/AO.38.002346"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Müller, D., Weinzierl, B., Petzold, A., Kandler, K., Ansmann, A., Müller, T., Tesche, M., Freudenthaler, V., Esselborn, M., Heese, B., Althausen, D., Schladitz, A., Otto, S., and Knippertz, P.: Mineral dust observed with AERONET Sun photometer, Raman lidar, and in situ instruments during SAMUM 2006: Shape-independent particle properties, J. Geophys. Res., 115, D07202, https://doi.org/10.1029/2009JD012520, 2010.",
+        "DOI": "10.1029/2009JD012520"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "O'Neill, N. T., Eck, T. F., Smirnov, A., Holben, B., and Thulasiraman, S.: Spectral discrimination of coarse and fine mode optical depth, J. Geophys. Res., 108, 4559, https://doi.org/10.1029/2002JD002975, 2003.",
+        "DOI": "10.1029/2002JD002975"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Smirnov, A., Holben, B. N., Eck, T. F., Dubovik, O., and Slutsker, I.: Cloud screening and quality control algorithms for Aeronet database, Remote Sens. Environ., 73, 337–349, 2000.",
+        "DOI": "10.1016/S0034-4257(00)00109-7"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Thomason, L. W. and Osborn, M. T.: Lidar conservation parameters derived from SAGE II extinction measurements, Geophys. Res. Lett., 19, 1655–1658, 1992.",
+        "DOI": "10.1029/92GL01619"
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Toledano, C., Wiegner, M., Gross, S., Freudenthaler, V., Gasteiger, J., Mueller, D., Mueller, T., Schladitz, A., Weinzierl, B., Torres, B., and O'Neill, N. T.: Optical properties of aerosol mixtures derived from sun sky radiometry during SAMUM 2, Tellus Ser. B, 63, 635–648, https://doi.org/10.1111/j.1600-0889.2011.00573.x, 2011.",
+        "DOI": "10.1111/j.1600-0889.2011.00573.x"
+      },
+      {
+        "key": "ref27",
+        "unstructured": "Twomey, S.: Introduction to the Mathematics of Inversion in Remote Sensing and Linear Measurements, Elsevier, New York, 1977."
+      },
+      {
+        "key": "ref28",
+        "unstructured": "Wehrli, C.: GAW-PFR: A network of Aerosol Optical Depth observations with Precision Filter Radiometers, in: WMO/GAW Experts workshop on a global surface based network for long term observations of column aerosol optical properties, GAW Report No. 162, WMO TD No. 1287, 2005."
+      },
+      {
+        "key": "ref29",
+        "unstructured": "WMO: WMO/GAW Experts workshop on a global surface-based network for long term observations of column aerosol optical properties, Davos 2004, edited by: Baltensperger, U., Barrie, L., and Wehrli, C., GAW No. 162, WMO/TD-No. 1287, available at: ftp://ftp.wmo.int/Documents/PublicWeb/arep/gaw/gaw162.pdf, 2005."
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Veselovskii, I., Kolgotin, A., Griaznov, V., Müller, D., Wandinger, U., and Whiteman, D. N.: Inversion with regularization for the retrieval of tropospheric aerosol parameters from multiwavelength lidar sounding, Appl. Opt., 41, 3685–3699, 2002.",
+        "DOI": "10.1364/AO.41.003685"
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Veselovskii, I., Dubovik, O., Kolgotin, A., Korenskiy, M., Whiteman, D. N., Allakhverdiev, K., and Huseyinoglu, F.: Linear estimation of particle bulk parameters from multi-wavelength lidar measurements, Atmos. Meas. Tech., 5, 1135–1145, https://doi.org/10.5194/amt-5-1135-2012, 2012.",
+        "DOI": "10.5194/amt-5-1135-2012"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Veselovskii, I., Whiteman, D. N., Korenskiy, M., Kolgotin, A., Dubovik, O., Perez-Ramirez, D., and Suvorina, A.: Retrieval of spatio-temporal distributions of particle parameters from multiwavelength lidar measurements using the linear estimation technique and comparison with AERONET, Atmos. Meas. Tech., 6, 2671–2682, https://doi.org/10.5194/amt-6-2671-2013, 2013.",
+        "DOI": "10.5194/amt-6-2671-2013"
+      }
+    ],
+    "container-title": [
+      "Atmospheric Measurement Techniques"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://amt.copernicus.org/articles/7/2013/2014/amt-7-2013-2014.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          14
+        ]
+      ],
+      "date-time": "2025-02-14T23:08:05Z",
+      "timestamp": 1739574485000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://amt.copernicus.org/articles/7/2013/2014/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          4
+        ]
+      ]
+    },
+    "references-count": 32,
+    "journal-issue": {
+      "issue": "7",
+      "published-online": {
+        "date-parts": [
+          [
+            2014
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.5194/amt-7-2013-2014",
+    "relation": {
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.5194/amtd-7-99-2014",
+          "asserted-by": "subject"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.5194/amtd-7-99-2014",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "1867-8548"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "1867-8548"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          4
+        ]
+      ]
+    }
+  },
+  "10.48550/arXiv.0711.1474": null,
+  "10.5194/amt-7-839-2014": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2025-02-21T17:39:44Z",
+      "timestamp": 1740159584840,
+      "version": "3.37.3"
+    },
+    "reference-count": 36,
+    "publisher": "Copernicus GmbH",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2014-03-31T00:00:00Z",
+          "timestamp": 1396224000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/3.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100000780",
+        "name": "European Commission",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "300515"
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000780",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Atmos. Meas. Tech."
+    ],
+    "abstract": "<jats:p>Abstract. To date, size distributions obtained from the aerosol robotic network (AERONET) have been fit with bi-lognormals defined by six secondary microphysical parameters: the volume concentration, effective radius, and the variance of fine and coarse particle modes. However, since the total integrated volume concentration is easily calculated and can be used as an accurate constraint, the problem of fitting the size distribution can be reduced to that of deducing a single free parameter – the mode separation point. We present a method for determining the mode separation point for equivalent-volume bi-lognormal distributions based on optimization of the root mean squared error and the coefficient of determination. The extracted secondary parameters are compared with those provided by AERONET's Level 2.0 Version 2 inversion algorithm for a set of benchmark dominant aerosol types, including desert dust, biomass burning aerosol, urban sulphate and sea salt. The total volume concentration constraint is then also lifted by performing multi-modal fits to the size distribution using nested Gaussian mixture models, and a method is presented for automating the selection of the optimal number of modes using a stopping condition based on Fisher statistics and via the application of statistical hypothesis testing. It is found that the method for optimizing the location of the mode separation point is independent of the shape of the aerosol volume size distribution (AVSD), does not require the existence of a local minimum in the size interval 0.439 μm ≤ r ≤ 0.992 μm, and shows some potential for optimizing the bi-lognormal fitting procedure used by AERONET particularly in the case of desert dust aerosol. The AVSD of impure marine aerosol is found to require three modes. In this particular case, bi-lognormals fail to recover key features of the AVSD. Fitting the AVSD more generally with multi-modal models allows automatic detection of a statistically significant number of aerosol modes, is applicable to a very diverse range of aerosol types, and gives access to the secondary microphysical parameters of additional modes currently not available from bi-lognormal fitting methods.\n                    </jats:p>",
+    "DOI": "10.5194/amt-7-839-2014",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2014-03-31T12:10:02Z",
+      "timestamp": 1396267802000
+    },
+    "page": "839-858",
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "title": [
+      "Multi-modal analysis of aerosol robotic network size distributions for remote sensing applications: dominant aerosol type cases"
+    ],
+    "prefix": "10.5194",
+    "volume": "7",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3473-3478",
+        "authenticated-orcid": false,
+        "given": "M.",
+        "family": "Taylor",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1031-0216",
+        "authenticated-orcid": false,
+        "given": "S.",
+        "family": "Kazadzis",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8579-8562",
+        "authenticated-orcid": false,
+        "given": "E.",
+        "family": "Gerasopoulos",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "3145",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          31
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chin, M., Rood, R. B., Lin, S. J., Müller, J. F., and Thompson, A. M.: Atmospheric sulfur cycle simulated in the global model GOCART: Model description and global properties, J. Geophys. Res. Atmos., (1984–2012), 105, 24671–24687, 2000.",
+        "DOI": "10.1029/2000JD900384"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chin, M., Ginoux, P., Kinne, S., Torres, O., Holben, B. N., Duncan, B. N., and Nakajima, T.: Tropospheric aerosol optical thickness from the GOCART model and comparisons with satellite and Sun photometer measurements, J. Atmos. Sci., 59, 461–483, 2002.",
+        "DOI": "10.1175/1520-0469(2002)059<0461:TAOTFT>2.0.CO;2"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Derimian, Y., Leon, J.-F., Dubovik, O., Chiapello, I., Tanré, D., Sinyuk, A., Auriol, F., Podvin, T., Brogniez, G., and Holben, B. N.: Radiative properties of aerosol mixture observed during the dry season 2006 over M'Bour, Senegal (African Monsoon Multidisciplinary Analysis campaign), J. Geophys. Res. Atmos. (1984–2012), 113, D00C09, https://doi.org/10.1029/2008JD009904, 2008.",
+        "DOI": "10.1029/2008JD009904"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dubovik, O. and King, M. D.: A flexible inversion algorithm for retrieval of aerosol optical properties from Sun and sky radiance measurements, J Geophys. Res., 105, 20673–20696, 2000.",
+        "DOI": "10.1029/2000JD900282"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dubovik, O., Smirnov, A., Holben, B. N., King, M. D., Kaufman, Y. J., Eck, T. F., and Slutsker, I.: Accuracy assessment of aerosol optical properties retrieval from AERONET sun and sky radiance measurements, J. Geophys. Res., 105, 9791–9806, 2000.",
+        "DOI": "10.1029/2000JD900040"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dubovik, O., Holben, B., Eck, T. F., Smirnov, A., Kaufman, Y. J., King, M. D., Tanré, D., and Slutsker, I.: Variability of absorption and optical properties of key aerosol types observed in worldwide locations, J. Atmos. Sci., 59, 590–608, 2002.",
+        "DOI": "10.1175/1520-0469(2002)059<0590:VOAAOP>2.0.CO;2"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dubovik, O., Sinyuk, A., Lapyonok, T., Sinyuk, A., Mishchenko, M. I., Yang, P., Eck, T. F., Volten, H., Munoz, O., Veihelmann, B., van der Zander, W. J., Sorokin, M., and Slutsker, I.: Application of light scattering by spheroids for accounting for particle non-sphericity in remote sensing of desert dust, J. Geophys. Res., 111, D11208, https://doi.org/10.1029/2005JD006619, 2006.",
+        "DOI": "10.1029/2005JD006619"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dubovik, O., Herman, M., Holdak, A., Lapyonok, T., Tanré, D., Deuzé, J. L., Ducos, F., Sinyuk, A., and Lopatin, A.: Statistically optimized inversion algorithm for enhanced retrieval of aerosol properties from spectral multi-angle polarimetric satellite observations, Atmos. Meas. Tech., 4, 975–1018, https://doi.org/10.5194/amt-4-975-2011, 2011.",
+        "DOI": "10.5194/amt-4-975-2011"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Eck, T. F., Holben, B. N., Reid, J. S., Giles, D. M., Rivas, M. A., Singh, R. P., and Goloub, P.: Fog- and cloud-induced aerosol modification observed by the Aerosol Robotic Network (AERONET), J. Geophys. Res., 117, D07206, https://doi.org/10.1029/2011JD016839, 2012.",
+        "DOI": "10.1029/2011JD016839"
+      },
+      {
+        "key": "ref10",
+        "unstructured": "Fisher, R. A.: On the &quot;probable error&quot; of a coefficient of correlation deduced from a small sample, Metron, 1, 3–32, 1921."
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Garcia, O. E., Diaz, A. M., Exposito, F. J., Diaz, J. P., Dubovik, O., Dubuisson, P., Roger, J.-C., Eck, T. F., Sinyuk, A., Derimian, Y., Dutton, E. G., Schafer, J. S., Holben, B. N., and Garcia, C. A.: Validation of AERONET estimates of atmospheric solar fluxes and aerosol radiative forcing by ground-based broadband measurements, J. Geophys. Res. Atmos. (1984–2012), 113, D21207, https://doi.org/10.1029/2008JD010211, 2008.",
+        "DOI": "10.1029/2008JD010211"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ginoux, P., Chin, M., Tegen, I., Prospero, J. M., Holben, B., Dubovik, O., and Lin, S. J.: Sources and distributions of dust aerosols simulated with the GOCART model, J. Geophys. Res., 106, 20255–20273, 2001.",
+        "DOI": "10.1029/2000JD000053"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hansen, J. E. and Travis, L. D.: Light scattering in planetary atmospheres, Space Sci. Rev., 16, 527–610, 1974.",
+        "DOI": "10.1007/BF00168069"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Harel, O.: The estimation of R 2 and adjusted R 2 in incomplete data sets using multiple imputation, J. Appl. Stat., 36, 1109–1118, 2009.",
+        "DOI": "10.1080/02664760802553000"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hasekamp, O. P. and Landgraf, J.: Retrieval of aerosol properties over land surfaces: capabilities of multi-viewing-angle intensity and polarization measurements, Appl. Optics, 46, 3332–3344, 2007.",
+        "DOI": "10.1364/AO.46.003332"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kaufman, Y. J. and Holben, B. N.: Hemispherical backscattering by biomass burning and sulfate particles derived from sky measurements, J. Geophys. Res., 101, 19433–19445, 1996.",
+        "DOI": "10.1029/95JD02532"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kaufman, Y. J., Tanré, D., and Boucher, O.: A satellite view of aerosols in the climate system, Nature, 419, 215–223, 2002.",
+        "DOI": "10.1038/nature01091"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "King, M. D., Byrne, D. M., Herman, B. M., and Reagan, J. A.: Aerosol size distributions obtained by inversion of spectral optical depth measurements, J. Atmos. Sci., 21, 2153–2167, 1978.",
+        "DOI": "10.1175/1520-0469(1978)035<2153:ASDOBI>2.0.CO;2"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "King, M. D., Kaufman, Y. J., Tanré, D., and Nakajima, T.: Remote Sensing of Tropospheric Aerosols from Space: Past, Present, and Future, B. Am. Meteorol. Soc., 80, 2229–2259, 2009.",
+        "DOI": "10.1175/1520-0477(1999)080<2229:RSOTAF>2.0.CO;2"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kokhanovsky, A. A., Deuzé, J. L., Diner, D. J., Dubovik, O., Ducos, F., Emde, C., Garay, M. J., Grainger, R. G., Heckel, A., Herman, M., Katsev, I. L., Keller, J., Levy, R., North, P. R. J., Prikhach, A. S., Rozanov, V. V., Sayer, A. M., Ota, Y., Tanré, D., Thomas, G. E., and Zege, E. P.: The inter-comparison of major satellite aerosol retrieval algorithms using simulated intensity and polarization characteristics of reflected light, Atmos. Meas. Tech., 3, 909–932, https://doi.org/10.5194/amt-3-909-2010, 2010.",
+        "DOI": "10.5194/amt-3-909-2010"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Limpert, E., Stahel, W. A., and Abbt, M.: Log-normal distributions across the sciences: keys and clues, J. BioScience, 51, 341–352, 2001.",
+        "DOI": "10.1641/0006-3568(2001)051[0341:LNDATS]2.0.CO;2"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Omar, A. H., Won, J. G., Winker, D. M., Yoon, S. C., Dubovik, O., and McCormick, M. P.: Development of global aerosol models using cluster analysis of Aerosol Robotic Network (AERONET) measurements, J. Geophys. Res. Atmos, (1984–2012), 110, D10S14, https://doi.org/10.1029/2004JD004874, 2005.",
+        "DOI": "10.1029/2004JD004874"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Omar, A. H., Winker, D. M., Kittaka, C., Vaughan, M. A., Liu, Z., Hu, Y., Trepte, C. R., Rogers, R. R., Ferrare, R. A., Lee, K. P., Kuehn, R. E., Hostetler, C. A.: The CALIPSO automated aerosol classification and Lidar ratio selection algorithm, J. Atmos. Oceanic Technol., 26, 1994–2014, 2009.",
+        "DOI": "10.1175/2009JTECHA1231.1"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "O'Neill, N. T., Ignatov, A., Holben, B. N., and Eck, T. F.: The lognormal distribution as a reference for reporting aerosol optical depth statistics; Empirical tests using multi-year, multi-site AERONET sunphotometer data, Geophys. Res. Lett., 27, 3333–3336, 2000.",
+        "DOI": "10.1029/2000GL011581"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "O'Neill, N. T., Eck, T. F., Smirnov, A., Holben, B. N., and Thulasiraman, S.: Spectral discrimination of coarse and fine mode optical depth, J. Geophys. Res., 108, 4559–4573, 2003.",
+        "DOI": "10.1029/2002JD002975"
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Remer, L. A. and Kaufman, Y. J.: Dynamic aerosol model: Urban industrial aerosol, J. Geophys. Res., 203, 13859–13871, 1998.",
+        "DOI": "10.1029/98JD00994"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Remer, L. A., Gasso, S. Hegg, D. A., Kaufman, Y. J., and Holben, B. N.: Urban/industrial aerosol: Ground-based Sun/sky radiometer and in situ measurements, J. Geophys. Res., 102, 16849–16859, 1997.",
+        "DOI": "10.1029/96JD01932"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Remer, L. A., Kaufman, Y. J., Holben, B. N., Thompson, A. M., and McNamara, D. P.: Biomass burning aerosol size distribution and modeled optical properties, J. Geophys. Res., 103, 31879–31891, 1998.",
+        "DOI": "10.1029/98JD00271"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Remer, L. A., Kaufman, Y.J, Tanre, D., Mattoo, S., Chu, D. A., Martins, J., and Holben, B. N.: The MODIS Aerosol Algorithm, Products, and Validation, J. Atmos. Sci., 62, 947–973, 2005.",
+        "DOI": "10.1175/JAS3385.1"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sayer, A. M., Smirnov, A., Hsu, N. C., and Holben, B. N.: A pure marine aerosol model, for use in remote sensing applications, J. Geophys. Res., 117, 1–25, 2012.",
+        "DOI": "10.1029/2011JD016689"
+      },
+      {
+        "key": "ref31",
+        "unstructured": "Steel, R. G. D. and Torrie, J. H.: Principles and Procedures of Statistics with Special Reference to the Biological Sciences, McGraw Hill, New York, 187, 287 pp., 1960."
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Textor, C., Schulz, M., Guibert, S., Kinne, S., Balkanski, Y., Bauer, S., Berntsen, T., Berglen, T., Boucher, O., Chin, M., Dentener, F., Diehl, T., Easter, R., Feichter, H., Fillmore, D., Ghan, S., Ginoux, P., Gong, S., Grini, A., Hendricks, J., Horowitz, L., Huang, P., Isaksen, I., Iversen, I., Kloster, S., Koch, D., Kirkevåg, A., Kristjansson, J. E., Krol, M., Lauer, A., Lamarque, J. F., Liu, X., Montanaro, V., Myhre, G., Penner, J., Pitari, G., Reddy, S., Seland, Ø., Stier, P., Takemura, T., and Tie, X.: Analysis and quantification of the diversities of aerosol life cycles within AeroCom, Atmos. Chem. Phys., 6, 1777–1813, https://doi.org/10.5194/acp-6-1777-2006, 2006.",
+        "DOI": "10.5194/acp-6-1777-2006"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Textor, C., Schulz, M., Guibert, S., Kinne, S., Balkanski, Y., Bauer, S., Berntsen, T., Berglen, T., Boucher, O., Chin, M., Dentener, F., Diehl, T., Feichter, J., Fillmore, D., Ginoux, P., Gong, S., Grini, A., Hendricks, J., Horowitz, L., Huang, P., Isaksen, I. S. A., Iversen, T., Kloster, S., Koch, D., Kirkevåg, A., Kristjansson, J. E., Krol, M., Lauer, A., Lamarque, J. F., Liu, X., Montanaro, V., Myhre, G., Penner, J. E., Pitari, G., Reddy, M. S., Seland, Ø., Stier, P., Takemura, T., and Tie, X.: The effect of harmonized emissions on aerosol properties in global models – an AeroCom experiment, Atmos. Chem. Phys., 7, 4489–4501, https://doi.org/10.5194/acp-7-4489-2007, 2007.",
+        "DOI": "10.5194/acp-7-4489-2007"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Welch, B. L.: The generalization of &quot;Student's&quot; problem when several different population variances are involved, Biometrika, 34, 28–35, 1947.",
+        "DOI": "10.1093/biomet/34.1-2.28"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Whitby, K. T.: The physical characteristics of sulfur aerosols, Atmos. Environ., 12, 135–159, 1978.",
+        "DOI": "10.1016/B978-0-08-022932-4.50018-5"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhang, K., Wan, H., Wang, B., Zhang, M., Feichter, J., and Liu, X.: Tropospheric aerosol size distributions simulated by three online global aerosol models using the M7 microphysics module, Atmos. Chem. Phys., 10, 6409–6434, https://doi.org/10.5194/acp-10-6409-2010, 2010.",
+        "DOI": "10.5194/acp-10-6409-2010"
+      }
+    ],
+    "container-title": [
+      "Atmospheric Measurement Techniques"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://amt.copernicus.org/articles/7/839/2014/amt-7-839-2014.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          15
+        ]
+      ],
+      "date-time": "2025-02-15T02:31:43Z",
+      "timestamp": 1739586703000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://amt.copernicus.org/articles/7/839/2014/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          31
+        ]
+      ]
+    },
+    "references-count": 36,
+    "journal-issue": {
+      "issue": "3",
+      "published-online": {
+        "date-parts": [
+          [
+            2014
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.5194/amt-7-839-2014",
+    "relation": {
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.5194/amtd-6-10571-2013",
+          "asserted-by": "subject"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.5194/amtd-6-10571-2013",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "1867-8548"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "1867-8548"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          31
+        ]
+      ]
+    }
+  }
+}
