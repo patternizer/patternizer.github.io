@@ -1,0 +1,42 @@
+name: Deploy to GitHub Pages
+
+# Trigger workflow on push to the main branch
+on:
+  push:
+    branches:
+      - main  # Or your default branch if different
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment and don't cancel in-progress runs
+concurrency:
+  group: "pages"
+  cancel-in-progress: true  # Change this to true for faster deployment if you want to cancel older runs
+
+jobs:
+  deploy:
+    environment: github-pages
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js (optional, if needed for your project)
+      uses: actions/setup-node@v5
+      with:
+        node-version: '16'  # Specify your Node.js version if you need it
+
+    - name: Upload artifact for GitHub Pages deployment
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: '.'  # Upload the entire repository or specify the folder where your build is located
+
+    - name: Deploy to GitHub Pages
+      uses: pages/github-pages-deploy-action@v2
+      with:
+        branch: gh-pages  # Ensure you're deploying to the correct branch (gh-pages is the default for GitHub Pages)
+        folder: . # The folder where your built website files are located (e.g., 'dist', 'build', or just '.' if it's in the root)
