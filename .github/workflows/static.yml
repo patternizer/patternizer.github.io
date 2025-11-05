@@ -33,12 +33,13 @@ jobs:
       run: npm run build  # Adjust based on your site build process
 
     - name: Upload artifact for GitHub Pages deployment
-      uses: actions/upload-pages-artifact@v3
+      uses: actions/upload-artifact@v3
       with:
         path: './build'  # Adjust to where your built files are located
 
     - name: Deploy to GitHub Pages
-      uses: github/pages-deploy-action@v2  # Correct action name
+      uses: peaceiris/actions-gh-pages@v3  # Correct action for GitHub Pages deployment
       with:
-        branch: gh-pages  # Ensure you're deploying to the correct branch
-        folder: './build'  # Adjust to the folder containing the built site files
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: './build'  # Directory containing your built site
+
