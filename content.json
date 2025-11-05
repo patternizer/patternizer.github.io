@@ -111,13 +111,6 @@
       "desc": "Land  surface air temperature station records and climatological normals (1781–present) Kriging updates, data rescue & analysis."
     },
     {
-      "id": "2023-glosat-station-validation",
-      "title": "GloSAT Station Validation",
-      "link": "https://github.com/patternizer/glosat-analysis-station-validation",
-      "thumb": "thumbnails/validation.png",
-      "desc": "Monthly 5×5° gridded comparison of LAT, MAT and reference analysis anomalies, together with NAO and SOI."
-    },
-    {
       "id": "2022-global-fire-dashboard-project",
       "title": "Global Fire Dashboard",
       "link": "#apps",
@@ -130,36 +123,6 @@
       "link": "#apps",
       "thumb": "thumbnails/cussh.png",
       "desc": "ETCCDI & heat stress indices from CMIP6 (bias-adjusted), 7 city dashboards."
-    },
-    {
-      "title": "Demo Project 01",
-      "desc": "Temporary test card to exercise the Projects carousel.",
-      "thumb": "",
-      "link": ""
-    },
-    {
-      "title": "Demo Project 02",
-      "desc": "Temporary test card to exercise the Projects carousel.",
-      "thumb": "",
-      "link": ""
-    },
-    {
-      "title": "Demo Project 03",
-      "desc": "Temporary test card to exercise the Projects carousel.",
-      "thumb": "",
-      "link": ""
-    },
-    {
-      "title": "Demo Project 04",
-      "desc": "Temporary test card to exercise the Projects carousel.",
-      "thumb": "",
-      "link": ""
-    },
-    {
-      "title": "Demo Project 05",
-      "desc": "Temporary test card to exercise the Projects carousel.",
-      "thumb": "",
-      "link": ""
     }
   ],
   "apps": [
@@ -174,18 +137,6 @@
       "title": "CUSSH Cities",
       "iframe": "https://patternizer.github.io/cussh-app/dashboard-beta",
       "desc": "Bias-adjusted CMIP6 indicators + heat stress indices for 7 cities."
-    },
-    {
-      "id": "2021-glosat-map-app",
-      "title": "GloSAT Map",
-      "iframe": "https://crudata.uea.ac.uk/cru/projects/glosat/GloSATref.1.0.0.0-alpha.4/maps/map-month-1877-10.html",
-      "desc": "Monthly land air temperature map explorer (CRU)."
-    },
-    {
-      "id": "2022-age-of-mammals-stripes-app",
-      "title": "Age of Mammals Stripes",
-      "iframe": "https://ncc-stripes-app-99ed067aff9e.herokuapp.com/",
-      "desc": "Climate stripes for the Cenozoic Era (mural project)."
     }
   ],
   "talks": [
@@ -207,30 +158,10 @@
       "date": "13 November 2014",
       "place": "NASA GES-DISC, Maryland, USA",
       "desc": "Neural networks for aerosol size distributions from space.",
-      "img": "assets/png/nasa-ges-disc.png",
+      "thumb": "thumbnails/talk-2014-aeromap.png",
       "links": {
         "slides": "talks/mtaylor_aeromap_v9.pdf",
         "video": "https://youtu.be/hDQEvxeU3Mg"
-      }
-    },
-    {
-      "id": "2021-glosat-normals-part1",
-      "title": "GloSAT Annual Meeting: Estimating Normals (Part I)",
-      "date": "May 4, 2021",
-      "place": "Climatic Research Unit, UEA, Norwich, UK",
-      "img": "assets/png/glosat.png",
-      "links": {
-        "slides": "talks/mtaylor_glosat_normals_part1.pdf"
-      }
-    },
-    {
-      "id": "2021-glosat-normals-part2",
-      "title": "GloSAT Annual Meeting: Estimating Normals (Part II)",
-      "date": "Jul 13, 2021",
-      "place": "Climatic Research Unit, UEA, Norwich, UK",
-      "img": "assets/png/glosat.png",
-      "links": {
-        "slides": "talks/mtaylor_glosat_normals_part2.pdf"
       }
     }
   ],
@@ -373,7 +304,7 @@
       "code": "",
       "viz": "",
       "thumb": "thumbnails/pub-2018-sense-solar-egypt.png"
-    },
+    },   
     {
       "id": "2018-validation-of-omi-erythemal-doses-with",
       "title": "Validation of OMI erythemal doses with multi-sensor ground-based measurements in Thessaloniki, Greece",
@@ -465,20 +396,20 @@
       "thumb": ""
     },
     {
-      "id": "2016-particulate-matter-estimation-from-photochemistry-a",
-      "title": "Particulate Matter Estimation from Photochemistry: A Modelling Approach Using Neural Networks and Synoptic Clustering",
-      "authors": "Taylor, Retalis, Flocas",
-      "year": 2016,
+      "id": "anthropogenic-sulphur-dioxide-load-over-china",
+      "title": "Anthropogenic sulphur dioxide load over China as observed from different satellite sensors",
+      "authors": "Koukouli, Balis, van der A, Theys, Hedelt, Richter, Krotkov, Li, Taylor",
+      "year": "2016",
       "type": "journal",
-      "summary": "We report on the development and validation of a neural network (NN) model of PM10 concentrations in terms of photochemical measurements of NO; NO2 and O3 and temporal parameters that include the day of the week and the day of the year with its sinusoidal variation.",
-      "pdf": "Sy.pdf",
-      "doi": "https://doi.org/10.4209/aaqr.2015.07.0481",
+      "summary": "China; with its rapid economic growth and immense exporting power; has been the focus of many studies during this previous decade quantifying its increasing emissions contribution to the Earth's atmosphere.",
+      "pdf": "",
+      "doi": "https://doi.org/10.1016/j.atmosenv.2016.09.007",
       "cite": "",
       "data": "",
       "code": "",
       "viz": "",
       "thumb": ""
-    },
+    },    
     {
       "id": "2016-particulate-matter-estimation-from-photochemistry-a",
       "title": "Particulate Matter Estimation from Photochemistry: A Modelling Approach Using Neural Networks and Synoptic Clustering",
@@ -539,6 +470,21 @@
       "viz": "",
       "thumb": ""
     },
+    {
+      "id": "multi-modal-analysis-of-aerosol-robotic",
+      "title": "Multi-modal analysis of aerosol robotic network size distributions for remote sensing applications: dominant aerosol type cases",
+      "authors": "Taylor, Kazadzis, Gerasopoulos",
+      "year": "2014",
+      "type": "journal",
+      "summary": "To date; size distributions obtained from the aerosol robotic network (AERONET) have been fit with bi-lognormals defined by six secondary microphysical parameters: the volume concentration; effective radius; and the variance of fine and coarse particle modes.",
+      "pdf": "applications.pdf",
+      "doi": "https://doi.org/10.5194/amt-7-839-2014",
+      "cite": "",
+      "data": "",
+      "code": "",
+      "viz": "",
+      "thumb": ""
+    },    
     {
       "id": "2014-aerosol-microphysical-retrievals-from-precision-filter",
       "title": "Aerosol microphysical retrievals from precision filter radiometer direct solar radiation measurements and comparison with AERONET",
@@ -735,6 +681,21 @@
       "thumb": ""
     },
     {
+      "id": "on-the-deduction-of-galaxy-abundances",
+      "title": "On the deduction of galaxy abundances with evolutionary neural networks",
+      "authors": "Taylor, Diaz",
+      "year": "2007",
+      "type": "conference",
+      "summary": "A growing number of indicators are now being used with some confidence to measure the metallicity(Z) of photoionisation regions in planetary nebulae; galactic HII regions(GHIIRs); extra-galactic HII regions(EGHIIRs) and HII galaxies(HIIGs).",
+      "pdf": "https://adsabs.harvard.edu/pdf/2007ASPC..374..105T",
+      "doi": "https://arxiv.org/abs/0709.2990",
+      "cite": "",
+      "data": "",
+      "code": "",
+      "viz": "",
+      "thumb": "thumbnails/pub-2010-galaxy-abundances.png"
+    },    
+    {
       "id": "2007-a-3d-study-of-combined-density",
       "title": "A 3D Study of Combined Density and Temperature Fluctuations in Gaseous Nebulae I: Theory",
       "authors": "Taylor, Vilchez",
@@ -758,21 +719,6 @@
       "summary": "Internationality as a concept is being applied ambiguously; particularly in the world of academic journal publication. Although different criteria are used by scientometrists in order to measure internationality and to supplement its minimal literal meaning; the present study suggests that no…",
       "pdf": "",
       "doi": "https://doi.org/10.1007/s11192-006-0050-z",
-      "cite": "",
-      "data": "",
-      "code": "",
-      "viz": "",
-      "thumb": ""
-    },
-    {
-      "id": "1996-wave-propagation-through-cyclotron-resonance-in",
-      "title": "Wave propagation through cyclotron resonance in the presence of large Larmor radius ions",
-      "authors": "Cairns, Lashmore‐Davies, McDonald, Taylor",
-      "year": 1996,
-      "type": "journal",
-      "summary": "",
-      "pdf": "ions.pdf",
-      "doi": "https://doi.org/10.1063/1.49582",
       "cite": "",
       "data": "",
       "code": "",
@@ -823,66 +769,6 @@
       "code": "",
       "viz": "",
       "thumb": ""
-    },
-    {
-      "id": "anthropogenic-sulphur-dioxide-load-over-china",
-      "title": "Anthropogenic sulphur dioxide load over China as observed from different satellite sensors",
-      "authors": "Koukouli, Balis, van der A, Theys, Hedelt, Richter, Krotkov, Li, Taylor",
-      "year": "",
-      "type": "journal",
-      "summary": "China; with its rapid economic growth and immense exporting power; has been the focus of many studies during this previous decade quantifying its increasing emissions contribution to the Earth's atmosphere.",
-      "pdf": "",
-      "doi": "https://doi.org/10.1016/j.atmosenv.2016.09.007",
-      "cite": "",
-      "data": "",
-      "code": "",
-      "viz": "",
-      "thumb": ""
-    },
-    {
-      "id": "multi-modal-analysis-of-aerosol-robotic",
-      "title": "Multi-modal analysis of aerosol robotic network size distributions for remote sensing applications: dominant aerosol type cases",
-      "authors": "Taylor, Kazadzis, Gerasopoulos",
-      "year": "",
-      "type": "journal",
-      "summary": "To date; size distributions obtained from the aerosol robotic network (AERONET) have been fit with bi-lognormals defined by six secondary microphysical parameters: the volume concentration; effective radius; and the variance of fine and coarse particle modes.",
-      "pdf": "applications.pdf",
-      "doi": "https://doi.org/10.5194/amt-7-839-2014",
-      "cite": "",
-      "data": "",
-      "code": "",
-      "viz": "",
-      "thumb": ""
-    },
-    {
-      "id": "2010aspc-424-98t-page-98",
-      "title": "2010ASPC..424...98T Page 98",
-      "authors": "",
-      "year": "",
-      "type": "dataset",
-      "summary": "",
-      "pdf": "",
-      "doi": "https://adsabs.harvard.edu/full/2010ASPC..424...98T",
-      "cite": "",
-      "data": "",
-      "code": "",
-      "viz": "",
-      "thumb": ""
-    },
-    {
-      "id": "on-the-deduction-of-galaxy-abundances",
-      "title": "On the deduction of galaxy abundances with evolutionary neural networks",
-      "authors": "Taylor, Diaz",
-      "year": "2007",
-      "type": "conference",
-      "summary": "A growing number of indicators are now being used with some confidence to measure the metallicity(Z) of photoionisation regions in planetary nebulae; galactic HII regions(GHIIRs); extra-galactic HII regions(EGHIIRs) and HII galaxies(HIIGs).",
-      "pdf": "https://adsabs.harvard.edu/pdf/2007ASPC..374..105T",
-      "doi": "https://arxiv.org/abs/0709.2990",
-      "cite": "",
-      "data": "",
-      "code": "",
-      "viz": "",
-      "thumb": "thumbnails/pub-2010-galaxy-abundances.png"
     }
   ]
 }
