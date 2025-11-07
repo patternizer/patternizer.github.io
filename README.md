@@ -1,3 +1,5 @@
+![Deploy](https://github.com/patternizer/patternizer.github.io/actions/workflows/pages.yml/badge.svg)
+
 # patternizer.github.io
 
 Static personal website — **Release 2.0**.
