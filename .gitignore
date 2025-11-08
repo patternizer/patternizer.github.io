@@ -1,4 +1,5 @@
 # .gitignore
+IMAGES/*
 NOTES/*
 VERSIONS/*
 
