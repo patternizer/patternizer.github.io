@@ -90,5 +90,836 @@
   "05nmyph15": null,
   "04bwf3e34": null,
   "04ers2y35": null,
-  "042607708": null
+  "042607708": null,
+  "search::University of East Anglia": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::University of York": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Met Office": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::National Oceanography Centre": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::National Centre for Atmospheric Science": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::University of Reading": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::University of Edinburgh": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::University of Bristol": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::University of Exeter": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::University of Strathclyde": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::University of Leeds": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::International Institute for Applied Systems Analysis": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Colorado State University": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Aristotle University of Thessaloniki": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Royal Belgian Institute for Space Aeronomy": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Physikalisch-Meteorologisches Observatorium Davos": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Royal Netherlands Meteorological Institute": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::University of Bremen": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Goddard Space Flight Center": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Earth System Science Interdisciplinary Center": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::National Observatory of Athens": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::National Technical University of Athens": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Leibniz Institute for Tropospheric Research": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Finnish Meteorological Institute": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Universitat Politècnica de Catalunya": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Barcelona Supercomputing Center": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::University of Ioannina": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::West Virginia University": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Universidad de Granada": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Technische Universität Berlin": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::National Hellenic Research Foundation": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Consejo Superior de Investigaciones Científicas": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Centro Nacional de Biotecnología": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::University of St Andrews": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Culham Centre for Fusion Energy": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Climatic Research Unit, School of Environmental Sciences University of East Anglia  Norwich UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Department of Chemistry University of York  York UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Met Office  Exeter UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Climatic Research Unit School of Environmental Sciences, University of East Anglia  Norwich UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::National Centre for Atmospheric Science, Department of Meteorology University of Reading  Reading UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Cabot Institute for Environmental Change and Geographical Sciences, University of Bristol, Bristol, UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::College of Life and Environmental Sciences, University of Exeter, Exeter, UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::College of Engineering, Mathematics and Physical Sciences, University of Exeter, Exeter, UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Civil and Environmental Engineering, University of Strathclyde, Glasgow, UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Priestley International Center for Climate University of Leeds Leeds UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::International Institute for Applied Systems Analysis (IIASA) Laxenburg Austria": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Jean Golding Institute University of Bristol Bristol UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::School of Earth Sciences University of Bristol Bristol UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::School of Mathematical and Computational Sciences, University of St. Andrews, St. Andrews, Fife, KY16 9SS, United Kingdom": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::UKAEA Government Division (UKAEA/Euratom Fusion Association), Fusion, Culham, Abingdon, Oxon, OX14 3DB, United Kingdom": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "04r0k9g65": null,
+  "search::Brockmann Consult (Germany)": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "0375jbm11": null,
+  "search::National Centre for Earth Observation": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "04h699437": null,
+  "search::University of Leicester": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Rutherford Appleton Laboratory": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "057g20z61": null,
+  "search::Science and Technology Facilities Council": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "04tw1mp85": null,
+  "search::A-T Society": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "03h3jqn23": null,
+  "search::European Space Research and Technology Centre": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "033vjfk17": null,
+  "search::Wuhan University": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "015w2mp89": null,
+  "search::National Physical Laboratory": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "014w0fd65": null,
+  "search::European Centre for Medium-Range Weather Forecasts": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "04z8jg394": null,
+  "search::GFZ Helmholtz Centre for Geosciences": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Earth Observation, Climate and Optical Group, National Physical Laboratory, Hampton Road, Teddington TW11 0LW, UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Department of Meteorology, University of Reading, PO Box 243, Whiteknights, Reading RG6 6BB, UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Copernicus Climate Change Service, ECMWF, Shinfield Park, Reading, Berkshire RG2 9AX, UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Institute for Energy Systems, School of Engineering, University of Edinburgh, Grant Institute Kings Buildings, W Mains Road, Edinburgh EH9 3JW, UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Deutsches GeoForschungsZentrum, Albert-Einstein-Strasse 42-46, 14473 Potsdam, Germany": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Telespazio France, 26 Avenue Jean François Champollion, 31100 Toulouse, France": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::National Centre for Earth Observation, Reading RG6 6AL, UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "026ny0e17": null,
+  "search::Environment and Climate Change Canada": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "026nh4520": null,
+  "search::CSIRO Oceans and Atmosphere": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "00jtmb277": null,
+  "search::University of Wollongong": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "00bdqav06": null,
+  "search::Cooperative Institute for Research in Environmental Sciences": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "033tt8e33": null,
+  "search::NOAA Earth System Research Laboratory": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "02ttsq026": null,
+  "search::University of Colorado Boulder": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "02nv7yv05": null,
+  "search::Forschungszentrum Jülich": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Centre National de la Recherche Scientifique": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "02haar591": null,
+  "search::Institut Pierre-Simon Laplace": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "05ppf7q77": null,
+  "search::Laboratoire atmosphères, milieux, observations spatiales": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "02en5vm52": null,
+  "search::Sorbonne Université": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "05f82e368": null,
+  "search::Université Paris Cité": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "03mkjjy25": null,
+  "search::Université de Versailles Saint-Quentin-en-Yvelines": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "027k65916": null,
+  "search::Jet Propulsion Laboratory": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "00g2tkw06": null,
+  "search::Ford Motor Company (United States)": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "03c3r2d17": null,
+  "search::Center for Astrophysics Harvard & Smithsonian": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "02x681a42": null,
+  "search::Swiss Federal Laboratories for Materials Science and Technology": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "05a28rw58": null,
+  "search::ETH Zurich": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "05cvfcr44": null,
+  "search::NSF National Center for Atmospheric Research": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "04kxf1r09": null,
+  "search::Agencia Estatal de Meteorología": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "046cjf283": null,
+  "search::Laboratoire Interuniversitaire des Systèmes Atmosphériques": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "05ggc9x40": null,
+  "search::Université Paris-Est Créteil": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "03m6sha91": null,
+  "search::National Institute of Meteorology": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "04j91ny53": null,
+  "search::Cooperative Institute for Mesoscale Meteorological Studies": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "00gd1f947": null,
+  "search::NOAA National Severe Storms Laboratory": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "02aqsxs83": null,
+  "search::University of Oklahoma": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "01rxvg760": null,
+  "search::Nanjing University": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "00pjdza24": null,
+  "search::University of California System": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "03vmn1898": null,
+  "search::NOAA Geophysical Fluid Dynamics Laboratory": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "00hx57361": null,
+  "search::Princeton University": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "02z5nhe81": null,
+  "search::National Oceanic and Atmospheric Administration": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "017d9yp59": null,
+  "search::Laboratoire d'Aérologie": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "004raaa70": null,
+  "search::Université Fédérale de Toulouse Midi-Pyrénées": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "02v6kpv12": null,
+  "search::Université Toulouse III - Paul Sabatier": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Environment and Climate Change Canada, Downsview, ON, CA": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Climate Science Centre, CSIRO Oceans and Atmosphere, Aspendale, VIC, AU": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Centre for Atmospheric Chemistry, University of Wollongong, Wollongong, NSW, AU": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Cooperative Institute for Research in Environmental Sciences, University of Colorado, Boulder, US": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::NOAA Earth System Research Laboratory, Boulder, Colorado, US": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Jülich Supercomputing Centre, Forschungszentrum Jülich, Jülich, DE": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::LATMOS/IPSL, UPMC Univ. Paris 06 Sorbonne Universités, UVSQ, CNRS, Paris, FR": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Jet Propulsion Laboratory, California Institute of Technology, Table Mountain Facility, Wrightwood, CA, US": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Research and Advanced Engineering, Ford Motor Company, Dearborn, Michigan, US": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::NASA Goddard Space Flight Center, Greenbelt, Maryland, US": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Harvard-Smithsonian Center for Astrophysics, Cambridge, Massachusetts, US": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Empa, Swiss Federal Laboratories for Materials Science and Technology, Duebendorf, CH": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Department of Environmental Systems Science, Zürich, CH": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Royal Belgian Institute for Space Aeronomy (BIRA-IASB), Brussels, BE": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::National Center for Atmospheric Research, Boulder, CO, US": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Agencia Estatal de Meteorología, Izana Atmospheric Research Centre, Santa Cruz de Tenerife, ES": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Laboratoire Inter-universitaire des Systèmes Atmosphériques (LISA), UMR7583, Universités Paris-Est Créteil et Paris, Diderot, CNRS, Créteil, FR": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Department of Meteorology and Climatology, School of Geology, Aristotle University of Thessaloniki, Thessaloniki, GR": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Cooperative Institute for Mesoscale Meteorological Studies, The University of Oklahoma, US": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::NOAA/National Severe Storms Laboratory, Norman, OK, US": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Enable Midstream Partners, Headquarters, Oklahoma City, US": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Department of Geography and Planning, University of Toronto, CA": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::School of Atmospheric Sciences, Nanjing University, Nanjing, CN": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Atmospheric and Oceanic Sciences, Princeton University, US": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::NOAA Geophysical Fluid Dynamics Lab, Princeton, New Jersey, US": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Remote Sensing Laboratory (RSLAB), Department of Signal Theory and Communications, Universitat Politècnica de Catalunya (UPC), Barcelona, ES": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Global Monitoring Division, Earth System Research Laboratory, National Oceanic and Atmospheric Administration, Boulder, Colorado, US": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Laboratoire d’aérologie, CNRS UMR 5560, Observatoire Midi-Pyrénée, Université de Toulouse III, Toulouse, FR": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Institute of Atmospheric Physics, Earth System Modelling, Oberpfaffenhofen-Wessling, DE": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Karlsruher Institut für Technologie, Garmisch-Partenkirchen, DE": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, US": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "00mzz1w90": null,
+  "search::Alexandria University": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "0452jzg20": null,
+  "search::Chapman University": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "030zrse19": null,
+  "search::New and Renewable Energy Authority": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Institute for Environmental Research and Sustainable Development, National Observatory of Athens (IERSD/NOA), 15236 Athens, Greece": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Physicalisch-Meteorologisches Observatorium Davos, World Radiation Center (PMOD/WRC), CH-7260 Davos, Switzerland": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Center of Excellence in Earth Systems Modeling &amp; Observations, Chapman University, Orange, CA 92866, USA": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Department of Environmental Sciences, Faculty of Science, Alexandria University, Moharem Bek, Alexandria 21522, Egypt": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Department of Meteorology, University of Reading, Reading RG6 6BB, UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing, National Observatory of Athens (IAASARS/NOA), 15236 Athens, Greece": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::New and Renewable Energy Authority (NREA), Cairo 4544, Egypt": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::University of Patras": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::National and Kapodistrian University of Athens": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Universitat Jaume I": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::University of Georgia": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Hellenic Open University": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "01yc7t268": null,
+  "search::Washington University in St. Louis": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "040wg7k59": null,
+  "search::Chalmers University of Technology": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "02ks8qq67": null,
+  "search::Hungarian Academy of Sciences": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "0220qvk04": null,
+  "search::Shanghai Jiao Tong University": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "05vrdx898": null,
+  "search::Southwestern Institute of Physics": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Southwestern Institute of Physics, P.O. Box 432, Chengdu 610041, People’s Republic of China": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  }
 }

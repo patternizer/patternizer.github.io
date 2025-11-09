@@ -226,5 +226,365 @@
   "University of Bremen": {
     "lat": 53.1079646,
     "lon": 8.8556646
+  },
+  "University of East Anglia, Norwich, UK": {
+    "lat": 52.618086,
+    "lon": 1.2382278
+  },
+  "Thessaloniki, Greece": {
+    "lat": 40.6403167,
+    "lon": 22.9352716
+  },
+  "Athens, Greece": {
+    "lat": 37.9755648,
+    "lon": 23.7348324
+  },
+  "Madrid, Spain": {
+    "lat": 40.416782,
+    "lon": -3.703507
+  },
+  "Bath, UK": {
+    "lat": 51.3813864,
+    "lon": -2.3596963
+  },
+  "Bristol, UK": {
+    "lat": 51.4538022,
+    "lon": -2.5972985
+  },
+  "Penteli, Greece": {
+    "lat": 38.0505896,
+    "lon": 23.8614591
+  },
+  "University of Bath, UK": {
+    "lat": 51.3766938,
+    "lon": -2.3234206
+  },
+  "Oxford, UK": {
+    "lat": 51.7520131,
+    "lon": -1.2578499
+  },
+  "Maryland, USA": {
+    "lat": 39.5162401,
+    "lon": -76.9382069
+  },
+  "Department of Chemistry University of York York UK": {
+    "lat": 53.9480831,
+    "lon": -1.0476774
+  },
+  "Met Office Exeter UK": {
+    "lat": 50.7270226,
+    "lon": -3.4751568
+  },
+  "Exeter, UK": {
+    "lat": 50.7256138,
+    "lon": -3.5269209
+  },
+  "Glasgow, UK": {
+    "lat": 55.861155,
+    "lon": -4.2501687
+  },
+  "KY16 9SS, United Kingdom": {
+    "lat": 56.34036,
+    "lon": -2.80878
+  },
+  "OX14 3DB, United Kingdom": {
+    "lat": 51.6584488,
+    "lon": -1.2291063
+  },
+  "University of Leicester": {
+    "lat": 52.6106077,
+    "lon": -1.0872921
+  },
+  "A-T Society": {
+    "lat": 60.2312082,
+    "lon": 24.8586301
+  },
+  "European Space Research and Technology Centre": {
+    "lat": 52.2179131,
+    "lon": 4.4218478
+  },
+  "Wuhan University": {
+    "lat": 30.5373581,
+    "lon": 114.361517
+  },
+  "National Physical Laboratory": {
+    "lat": 51.4236576,
+    "lon": -0.3425114
+  },
+  "European Centre for Medium-Range Weather Forecasts": {
+    "lat": 51.4197152,
+    "lon": -0.9501968
+  },
+  "Teddington TW11 0LW, UK": {
+    "lat": 51.4261907,
+    "lon": -0.3380609
+  },
+  "Reading RG6 6BB, UK": {
+    "lat": 51.4514953,
+    "lon": -0.9836342
+  },
+  "Berkshire RG2 9AX, UK": {
+    "lat": 51.4462383,
+    "lon": -0.9656273
+  },
+  "Edinburgh EH9 3JW, UK": {
+    "lat": 55.9533456,
+    "lon": -3.1883749
+  },
+  "14473 Potsdam, Germany": {
+    "lat": 52.3707598,
+    "lon": 13.0522537
+  },
+  "31100 Toulouse, France": {
+    "lat": 43.5675736,
+    "lon": 1.3975057
+  },
+  "Reading RG6 6AL, UK": {
+    "lat": 51.4514953,
+    "lon": -0.9836342
+  },
+  "Environment and Climate Change Canada": {
+    "lat": 43.7812907,
+    "lon": -79.4683054
+  },
+  "University of Wollongong": {
+    "lat": -34.4050554,
+    "lon": 150.8783465
+  },
+  "University of Colorado Boulder": {
+    "lat": 40.0070061,
+    "lon": -105.2664423
+  },
+  "Forschungszentrum Jülich": {
+    "lat": 50.9054008,
+    "lon": 6.4118689
+  },
+  "Institut Pierre-Simon Laplace": {
+    "lat": 48.7780921,
+    "lon": 2.0490557
+  },
+  "Sorbonne Université": {
+    "lat": 48.8379885,
+    "lon": 2.3611216
+  },
+  "Université Paris Cité": {
+    "lat": 48.8514684,
+    "lon": 2.341089
+  },
+  "Jet Propulsion Laboratory": {
+    "lat": 34.2015125,
+    "lon": -118.1729785
+  },
+  "Ford Motor Company (United States)": {
+    "lat": 43.0585903,
+    "lon": -87.8861154
+  },
+  "ETH Zurich": {
+    "lat": 47.413218,
+    "lon": 8.5374914
+  },
+  "Agencia Estatal de Meteorología": {
+    "lat": 40.4523141,
+    "lon": -3.7244826
+  },
+  "Université Paris-Est Créteil": {
+    "lat": 48.7882159,
+    "lon": 2.4439219
+  },
+  "National Institute of Meteorology": {
+    "lat": 14.6482157,
+    "lon": 121.0702357
+  },
+  "University of Oklahoma": {
+    "lat": 35.1959878,
+    "lon": -97.4457083
+  },
+  "Nanjing University": {
+    "lat": 32.0565957,
+    "lon": 118.7740883
+  },
+  "University of California System": {
+    "lat": 32.8748708,
+    "lon": -117.2315823
+  },
+  "Princeton University": {
+    "lat": 40.3386752,
+    "lon": -74.6583655
+  },
+  "National Oceanic and Atmospheric Administration": {
+    "lat": 36.0030305,
+    "lon": -84.2489839
+  },
+  "ON, CA": {
+    "lat": 50.000678,
+    "lon": -86.000977
+  },
+  "VIC, AU": {
+    "lat": -36.5986096,
+    "lon": 144.6780052
+  },
+  "NSW, AU": {
+    "lat": -31.8759835,
+    "lon": 147.2869493
+  },
+  "Boulder, US": {
+    "lat": 40.0149856,
+    "lon": -105.270545
+  },
+  "Colorado, US": {
+    "lat": 38.7251776,
+    "lon": -105.607716
+  },
+  "Jülich, DE": {
+    "lat": 50.9220931,
+    "lon": 6.3611015
+  },
+  "Paris, FR": {
+    "lat": 48.8534951,
+    "lon": 2.3483915
+  },
+  "CA, US": {
+    "lat": 36.7014631,
+    "lon": -118.755997
+  },
+  "Michigan, US": {
+    "lat": 43.6211955,
+    "lon": -84.6824346
+  },
+  "Maryland, US": {
+    "lat": 39.5162401,
+    "lon": -76.9382069
+  },
+  "Harvard-Smithsonian Center for Astrophysics, Cambridge, Massachusetts, US": {
+    "lat": 42.3814411,
+    "lon": -71.1284012
+  },
+  "Duebendorf, CH": {
+    "lat": 47.3969942,
+    "lon": 8.6185666
+  },
+  "Zürich, CH": {
+    "lat": 47.3744489,
+    "lon": 8.5410422
+  },
+  "Brussels, BE": {
+    "lat": 50.8465573,
+    "lon": 4.351697
+  },
+  "National Center for Atmospheric Research, Boulder, CO, US": {
+    "lat": 39.97789,
+    "lon": -105.2748664
+  },
+  "Santa Cruz de Tenerife, ES": {
+    "lat": 28.467178,
+    "lon": -16.2507843
+  },
+  "Créteil, FR": {
+    "lat": 48.7771486,
+    "lon": 2.4530731
+  },
+  "Thessaloniki, GR": {
+    "lat": 40.6403167,
+    "lon": 22.9352716
+  },
+  "The University of Oklahoma, US": {
+    "lat": 35.4755069,
+    "lon": -97.4961201
+  },
+  "OK, US": {
+    "lat": 34.9550817,
+    "lon": -97.2684063
+  },
+  "Oklahoma City, US": {
+    "lat": 35.4729886,
+    "lon": -97.5170536
+  },
+  "University of Toronto, CA": {
+    "lat": 43.664022,
+    "lon": -79.3981916
+  },
+  "Nanjing, CN": {
+    "lat": 32.0438284,
+    "lon": 118.7788631
+  },
+  "Princeton University, US": {
+    "lat": 40.3386752,
+    "lon": -74.6583655
+  },
+  "New Jersey, US": {
+    "lat": 40.0757384,
+    "lon": -74.4041622
+  },
+  "Barcelona, ES": {
+    "lat": 41.3825802,
+    "lon": 2.177073
+  },
+  "Toulouse, FR": {
+    "lat": 43.6044638,
+    "lon": 1.4442433
+  },
+  "Oberpfaffenhofen-Wessling, DE": {
+    "lat": 48.0732582,
+    "lon": 11.2649062
+  },
+  "Garmisch-Partenkirchen, DE": {
+    "lat": 47.4923741,
+    "lon": 11.0962815
+  },
+  "California, US": {
+    "lat": 36.7014631,
+    "lon": -118.755997
+  },
+  "Alexandria University": {
+    "lat": 31.2104662,
+    "lon": 29.9131341
+  },
+  "Chapman University": {
+    "lat": 33.7933817,
+    "lon": -117.8516959
+  },
+  "15236 Athens, Greece": {
+    "lat": 38.0513804,
+    "lon": 23.8628736
+  },
+  "CH-7260 Davos, Switzerland": {
+    "lat": 46.8043626,
+    "lon": 9.8463562
+  },
+  "CA 92866, USA": {
+    "lat": 33.8413371,
+    "lon": -117.9949451
+  },
+  "Alexandria 21522, Egypt": {
+    "lat": 31.1991806,
+    "lon": 29.8951716
+  },
+  "Cairo 4544, Egypt": {
+    "lat": 30.0443879,
+    "lon": 31.2357257
+  },
+  "Washington University in St. Louis": {
+    "lat": 38.6472402,
+    "lon": -90.3084017
+  },
+  "Chalmers University of Technology": {
+    "lat": 57.6897462,
+    "lon": 11.9765259
+  },
+  "Hungarian Academy of Sciences": {
+    "lat": 47.5012627,
+    "lon": 19.0461337
+  },
+  "Shanghai Jiao Tong University": {
+    "lat": 31.2008912,
+    "lon": 121.4283949
+  },
+  "Southwestern Institute of Physics": {
+    "lat": 30.5734303,
+    "lon": 104.021117
+  },
+  "Chengdu 610041, People’s Republic of China": {
+    "lat": 30.659867,
+    "lon": 104.063315
   }
 }
