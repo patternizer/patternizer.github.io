@@ -448,13 +448,13 @@
       "year": 2014,
       "type": "journal",
       "summary": "In order to exploit the full-earth viewing potential of satellite instruments to globally characterise aerosols; new algorithms are required to deduce key microphysical parameters like the particle size distribution and optical parameters associated with scattering and absorption from space remote…",
-      "pdf": "met.pdf",
-      "doi": "https://doi.org/10.5194/amt-7-3151-2014",
+      "pdf": "https://amt.copernicus.org/articles/7/3151/2014/amt-7-3151-2014.pdf",
+      "doi": "https://amt.copernicus.org/articles/7/3151/2014/",
       "cite": "",
       "data": "",
       "code": "",
       "viz": "",
-      "thumb": ""
+      "thumb": "thumbnails/pub-2014-dust-nn-sahara.png"
     },
     {
       "id": "multi-modal-analysis-of-aerosol-robotic",
@@ -463,13 +463,14 @@
       "year": "2014",
       "type": "journal",
       "summary": "To date; size distributions obtained from the aerosol robotic network (AERONET) have been fit with bi-lognormals defined by six secondary microphysical parameters: the volume concentration; effective radius; and the variance of fine and coarse particle modes.",
-      "pdf": "applications.pdf",
-      "doi": "https://doi.org/10.5194/amt-7-839-2014",
+      "pdf": "https://amt.copernicus.org/articles/7/839/2014/amt-7-839-2014.pdf",
+      "doi": "https://amt.copernicus.org/articles/7/839/2014/",
       "cite": "",
       "data": "",
       "code": "",
       "viz": "",
-      "thumb": ""
+      "thumb": "thumbnails/pub-2014-aeronet-multi-modal.png",
+      "supplement": "https://amt.copernicus.org/articles/7/839/2014/amt-7-839-2014-supplement.pdf"
     },    
     {
       "id": "2014-aerosol-microphysical-retrievals-from-precision-filter",
@@ -478,13 +479,13 @@
       "year": 2014,
       "type": "journal",
       "summary": "Synchronized sun-photometric measurements from the AERONET-CIMEL (AErosol RObotic NETwork) and GAW-PFR (Global Atmospheric Watch; Precision Filter Radiometer) aerosol networks are used to compare retrievals of the aerosol optical depth (AOD); effective radius; and volume concentration during a…",
-      "pdf": "measurement.pdf",
-      "doi": "https://doi.org/10.5194/amt-7-2013-2014",
+      "pdf": "https://amt.copernicus.org/articles/7/2013/2014/amt-7-2013-2014.pdf",
+      "doi": "https://amt.copernicus.org/articles/7/2013/2014/",
       "cite": "",
       "data": "",
       "code": "",
       "viz": "",
-      "thumb": ""
+      "thumb": "thumbnails/pub-2014-aerosol-precision-filter.png",
     },
     {
       "id": "2014-rankings-are-the-sorcerers-new-apprentice",
@@ -493,13 +494,13 @@
       "year": 2014,
       "type": "journal",
       "summary": "Global university rankings are a powerful force shaping higher education policy worldwide. Several different ranking systems exist; but they all suffer from the same mathematical shortcoming -...",
-      "pdf": "apprentice.pdf",
-      "doi": "https://doi.org/10.3354/esep00146",
+      "pdf": "https://www.int-res.com/articles/esep2013/13/e013p073.pdf",
+      "doi": "https://www.int-res.com/abstracts/esep/v13/esep00146",
       "cite": "",
       "data": "",
       "code": "",
       "viz": "",
-      "thumb": ""
+      "thumb": "thumbnails/pub-2014-rankings.png",
     },
     {
       "id": "2013-optimizing-calipso-saharan-dust-retrievals",
@@ -508,28 +509,13 @@
       "year": 2013,
       "type": "journal",
       "summary": "We demonstrate improvements in CALIPSO (Cloud; Aerosol Lidar and Infrared Pathfinder Satellite Observations) dust extinction retrievals over northern Africa and Europe when corrections are applied regarding the Saharan dust lidar ratio assumption; the separation of the dust portion in detected dust…",
-      "pdf": "retrievals.pdf",
+      "pdf": "https://acp.copernicus.org/articles/13/12089/2013/acp-13-12089-2013.pdf",
       "doi": "https://doi.org/10.5194/acp-13-12089-2013",
       "cite": "",
       "data": "",
       "code": "",
       "viz": "",
-      "thumb": ""
-    },
-    {
-      "id": "2013-academic-self-publishing-a-not-so",
-      "title": "Academic self-publishing: a not-so-distant future",
-      "authors": "Perakakis, Taylor",
-      "year": 2013,
-      "type": "journal",
-      "summary": "Pandelis Perakakis is a clinical psychophysiologist; an active advocate of green open access and a proponent of a new research evaluation model called ‘author-guided peer review’.",
-      "pdf": "future.pdf",
-      "doi": "https://doi.org/10.1080/08109028.2014.891712",
-      "cite": "",
-      "data": "",
-      "code": "",
-      "viz": "",
-      "thumb": ""
+      "thumb": "thumbnails/pub-2014-calipso-dust.png",
     },
     {
       "id": "2011-volterra-network-modeling-of-the-nonlinear",
@@ -544,22 +530,7 @@
       "data": "",
       "code": "",
       "viz": "",
-      "thumb": ""
-    },
-    {
-      "id": "2011-understanding-the-role-of-open-peer",
-      "title": "Understanding the role of open peer review and dynamic academic articles",
-      "authors": "Perakakis, Taylor, Mazza, Trachana",
-      "year": 2011,
-      "type": "journal",
-      "summary": "We welcome the commentary by L. Egghe (Scientometrics; this issue) stimulating discussion on our recent article “Natural selection of academic papers” (NSAP) (Scientometrics; 85(2):553; 559; 2010) that focuses on an important modern issue at the heart of the scientific enterprise; the open and…",
-      "pdf": "",
-      "doi": "https://doi.org/10.1007/s11192-011-0402-1",
-      "cite": "",
-      "data": "",
-      "code": "",
-      "viz": "",
-      "thumb": ""
+      "thumb": "thumbnails/pub-2011-van-allan-narmax.png",
     },
     {
       "id": "2010-towards-a-unified-source-propagation-model",
@@ -568,13 +539,13 @@
       "year": 2010,
       "type": "journal",
       "summary": "",
-      "pdf": "",
+      "pdf": "https://aspbooks.org/publications/424/098.pdf",
       "doi": "https://aspbooks.org/custom/publications/paper/424-0098.html",
       "cite": "",
       "data": "",
       "code": "",
       "viz": "",
-      "thumb": ""
+      "thumb": "thumbnails/pub-2010-cosmic-rays.png"
     },
     {
       "id": "2010-natural-selection-of-academic-papers",
@@ -583,28 +554,13 @@
       "year": 2010,
       "type": "journal",
       "summary": "Academic papers; like genes; code for ideas or technological innovations that structure and transform the scientific organism and consequently the society at large. Genes are subject to the process of natural selection which ensures that only the fittest survive and contribute to the phenotype of…",
-      "pdf": "papers.pdf",
-      "doi": "https://doi.org/10.1007/s11192-010-0253-1",
-      "cite": "",
-      "data": "",
-      "code": "",
-      "viz": "",
-      "thumb": ""
-    },
-    {
-      "id": "2010-kardia-a-matlab-software-for-the",
-      "title": "KARDIA: A Matlab software for the analysis of cardiac interbeat intervals",
-      "authors": "Perakakis, Joffily, Taylor, Guerra, Vila",
-      "year": 2010,
-      "type": "journal",
-      "summary": "This article presents KARDIA; a Matlab (MathWorks Inc.; MA) software developed for the analysis of cardiac interbeat interval (IBI) data. Available functions are called through a graphical user interface and permit the study of phasic cardiac responses (PCRs) and the estimation of time and…",
       "pdf": "",
-      "doi": "https://doi.org/10.1016/j.cmpb.2009.10.002",
+      "doi": "https://link.springer.com/article/10.1007/s11192-010-0253-1",
       "cite": "",
       "data": "",
       "code": "",
       "viz": "",
-      "thumb": ""
+      "thumb": "thumbnails/pub-2010-natural-selection.png"
     },
     {
       "id": "2009-tutorial-exact-solutions-for-the-populations",
@@ -613,28 +569,13 @@
       "year": 2009,
       "type": "journal",
       "summary": "This tutorial presents a review of the analytical approach to obtain exact solutions for the populations of n-level ions; and summarizes the ideas behind detailed balance and the statistical physics of collisionally-excited ions.",
-      "pdf": "Ion.pdf",
+      "pdf": "https://iopscience.iop.org/article/10.1086/648121/pdf",
       "doi": "https://doi.org/10.1086/648121",
       "cite": "",
       "data": "",
       "code": "",
       "viz": "",
-      "thumb": ""
-    },
-    {
-      "id": "2009-breathing-frequency-bias-in-fractal-analysis",
-      "title": "Breathing frequency bias in fractal analysis of heart rate variability",
-      "authors": "Perakakis, Taylor, Martinez-Nieto, Revithi, Vila",
-      "year": 2009,
-      "type": "journal",
-      "summary": "Detrended Fluctuation Analysis (DFA) is an algorithm widely used to determine fractal long-range correlations in physiological signals. Its application to heart rate variability (HRV) has proven useful in distinguishing healthy subjects from patients with cardiovascular disease.",
-      "pdf": "",
-      "doi": "https://doi.org/10.1016/j.biopsycho.2009.06.004",
-      "cite": "",
-      "data": "",
-      "code": "",
-      "viz": "",
-      "thumb": ""
+      "thumb": "thumbnails/pub-2009-n-level-ion.png"
     },
     {
       "id": "2008-a-matrix-generalisation-of-dimensional-analysis",
@@ -643,13 +584,13 @@
       "year": 2008,
       "type": "journal",
       "summary": "",
-      "pdf": "of.pdf",
-      "doi": "https://m-hikari.com/astp/astp2008/astp17-20-2008/taylorASTP17-20-2008.pdf",
+      "pdf": "https://m-hikari.com/astp/astp2008/astp17-20-2008/taylorASTP17-20-2008.pdf",
+      "doi": "",
       "cite": "",
       "data": "",
       "code": "",
       "viz": "",
-      "thumb": ""
+      "thumb": "thumbnails/pub-2008-matrix-dimensional-analysis.png"
     },
     {
       "id": "2008-the-siege-of-science",
@@ -657,14 +598,14 @@
       "authors": "Taylor, Perakakis, Trachana",
       "year": 2008,
       "type": "journal",
-      "summary": "Science is in a state of siege. The traditional stage for scientific ideas through peer-reviewed academic journals has been hijacked by an overpriced journal monopoly.",
-      "pdf": "science.pdf",
+      "summary": "Science is in a state of siege; the traditional stage for scientific ideas open to peer-review has been hijacked by paywalls imposed by an overpriced journal monopoly; journal impact factor is a flawed metric; makes case for free open access.",
+      "pdf": "https://www.int-res.com/articles/esep2008/8/e008p017.pdf",
       "doi": "https://doi.org/10.3354/esep00086",
       "cite": "",
       "data": "",
       "code": "",
       "viz": "",
-      "thumb": ""
+      "thumb": "thumbnails/pub-2008-siege.png"
     },
     {
       "id": "on-the-deduction-of-galaxy-abundances",
@@ -681,51 +622,6 @@
       "viz": "",
       "thumb": "thumbnails/pub-2010-galaxy-abundances.png"
     },    
-    {
-      "id": "2007-a-3d-study-of-combined-density",
-      "title": "A 3D Study of Combined Density and Temperature Fluctuations in Gaseous Nebulae I: Theory",
-      "authors": "Taylor, Vilchez",
-      "year": 2007,
-      "type": "dataset",
-      "summary": "This draft (in preparation) has been withdrawn so as to be combined with its second part (work also in preparation); to produce a single paper; that includes further analysis and revisions done after new important results obtained.",
-      "pdf": "",
-      "doi": "https://doi.org/10.48550/arXiv.0711.1474",
-      "cite": "",
-      "data": "",
-      "code": "",
-      "viz": "",
-      "thumb": ""
-    },
-    {
-      "id": "2006-measuring-internationality-reflections-and-perspectives-on",
-      "title": "Measuring internationality: Reflections and perspectives on academic journals",
-      "authors": "Buela-Casal, Perakakis, Taylor, Checa",
-      "year": 2006,
-      "type": "journal",
-      "summary": "Internationality as a concept is being applied ambiguously; particularly in the world of academic journal publication. Although different criteria are used by scientometrists in order to measure internationality and to supplement its minimal literal meaning; the present study suggests that no…",
-      "pdf": "",
-      "doi": "https://doi.org/10.1007/s11192-006-0050-z",
-      "cite": "",
-      "data": "",
-      "code": "",
-      "viz": "",
-      "thumb": ""
-    },
-    {
-      "id": "1996-wave-propagation-through-cyclotron-resonance-in",
-      "title": "Wave propagation through cyclotron resonance in the presence of large Larmor radius ions",
-      "authors": "Cairns, Lashmore‐Davies, McDonald, Taylor",
-      "year": 1996,
-      "type": "journal",
-      "summary": "A theory of the ICR heating is worked out and applied to the minority heating in a D‐He fusion plasma with the small Larmor radius regime. Computation can be greatly simplified by using the WKB and fast wave approximations.",
-      "pdf": "",
-      "doi": "https://doi.org/10.1063/1.49582",
-      "cite": "",
-      "data": "",
-      "code": "",
-      "viz": "",
-      "thumb": ""
-    },
     {
       "id": "1996-wave-particle-dynamics-in-a-hot",
       "title": "Wave-particle dynamics in a hot inhomogenous fusion plasma",
@@ -754,7 +650,7 @@
       "data": "",
       "code": "",
       "viz": "",
-      "thumb": ""
+      "thumb": "thumbnails/pub-1995-physics-of-plasmas.png"
     }
   ]
 }
