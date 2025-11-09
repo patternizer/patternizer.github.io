@@ -142,13 +142,13 @@
   "talks": [
     {
       "id": "2023-rmets-data-rescue",
-      "title": "RMetS Data Rescue: Discovery and recovery of historic climate observations",
+      "title": "RMetS Data Rescue: discovery and recovery of historic climate observations",
       "date": "11 October 2023",
       "place": "Geological Society, London, UK",
       "desc": "Extending the GloSAT land surface temperature record.",
       "thumb": "thumbnails/talk-2023-rmets.png",
       "links": {
-        "slides": "talks/slides-2023-rmets-glosat.pdf",
+        "slides": "https://github.com/patternizer/pdf-archive/blob/master/talks/talk-2023-rmets-data-rescue.pdf",
         "video": "https://www.youtube.com/watch?v=hDQEvxeU3Mg&t=4158s"
       }
     },
@@ -160,7 +160,7 @@
       "desc": "Neural networks for aerosol size distributions from space.",
       "thumb": "thumbnails/talk-2014-aeromap.png",
       "links": {
-        "slides": "talks/mtaylor_aeromap_v9.pdf",
+        "slides": "https://github.com/patternizer/pdf-archive/blob/master/talks/talk-2014-aeromap-nasa.pdf",
         "video": "https://youtu.be/hDQEvxeU3Mg"
       }
     }
