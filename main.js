@@ -1060,7 +1060,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const mapEl = document.getElementById("collab-map");
   if (!mapEl || typeof L === "undefined") return;
 
-  const defaultCenter = [20, 0], defaultZoom = 2;
+  const defaultCenter = [52, 0], defaultZoom = 4;
   const map = L.map(mapEl, {
     zoomControl: true,          // zoom buttons
     attributionControl: true,
