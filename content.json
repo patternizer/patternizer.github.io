@@ -372,7 +372,7 @@
       "year": 2016,
       "type": "journal",
       "summary": "Neural network (NN) models of photosynthetically-active radiation (PAR) and global horizontal irradiance (GHI) are validated across Greek UV (UVNET) and solar (HNSE) network stations; multi-channel singular spectrum analysis (M-SSA) regularizes the models for diverse sky/cloud regimes.",
-      "pdf": "",
+      "pdf": "https://raw.githubusercontent.com/patternizer/pdf-archive/master/pdfs/pub-2016-ssa-par-ghi.pdf",
       "doi": "https://doi.org/10.1016/j.jqsrt.2016.06.003",
       "cite": "",
       "data": "",
