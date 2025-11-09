@@ -148,7 +148,7 @@
       "desc": "Extending the GloSAT land surface temperature record.",
       "thumb": "thumbnails/talk-2023-rmets.png",
       "links": {
-        "slides": "https://github.com/patternizer/pdf-archive/blob/master/talks/talk-2023-rmets-data-rescue.pdf",
+        "slides": "https://raw.githubusercontent.com/patternizer/pdf-archive/master/talks/talk-2023-rmets-data-rescue.pdf",           
         "video": "https://www.youtube.com/watch?v=hDQEvxeU3Mg&t=4158s"
       }
     },
@@ -160,7 +160,7 @@
       "desc": "Neural networks for aerosol size distributions from space.",
       "thumb": "thumbnails/talk-2014-aeromap.png",
       "links": {
-        "slides": "https://github.com/patternizer/pdf-archive/blob/master/talks/talk-2014-aeromap-nasa.pdf",
+        "slides": "https://raw.githubusercontent.com/patternizer/pdf-archive/master/talks/talk-2014-aeromap-nasa.pdf",
         "video": "https://youtu.be/hDQEvxeU3Mg"
       }
     }
