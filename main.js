@@ -258,6 +258,7 @@ function renderProjects(src){
       if(p.data) links.push('[<a href="'+esc(p.data)+'" target="_blank" rel="noopener noreferrer">dataset</a>]');
       if(p.code) links.push('[<a href="'+esc(p.code)+'" target="_blank" rel="noopener noreferrer">github</a>]');
       if(p.viz)  links.push('[<a href="'+esc(p.viz)+'"  target="_blank" rel="noopener noreferrer">dataviz</a>]');
+      if(p.supplement)  links.push('[<a href="'+esc(p.supplement)+'"  target="_blank" rel="noopener noreferrer">supplement</a>]');
 
       const thumb = p.thumb || 'thumbnails/pubs/placeholder-pub.svg';
       return '<li class="publication-entry" data-type="'+esc(p.type)+'" data-year="'+esc(p.year)+'">'
