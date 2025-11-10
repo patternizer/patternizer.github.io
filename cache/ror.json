@@ -921,5 +921,220 @@
     "errors": [
       "query parameter 'mailto' is illegal"
     ]
+  },
+  "search::School of Environmental Sciences University of East Anglia  Norwich UK": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Climatic Research Unit School of Environmental Sciences": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Cabot Institute for Environmental Change and Geographical Sciences": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::College of Life and Environmental Sciences": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::College of Engineering": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::International Institute for Applied Systems Analysis  Laxenburg Austria": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Brockmann Consult": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Copernicus Climate Change Service": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Institute for Energy Systems": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Deutsches GeoForschungsZentrum": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Telespazio France": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Laboratoire atmosphères": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Ford Motor Company": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Climate Science Centre": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Centre for Atmospheric Chemistry": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Jülich Supercomputing Centre": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::LATMOS/IPSL": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Research and Advanced Engineering": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::NASA Goddard Space Flight Center": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Harvard-Smithsonian Center for Astrophysics": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Department of Environmental Systems Science": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::National Center for Atmospheric Research": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Izana Atmospheric Research Centre": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Laboratoire Inter-universitaire des Systèmes Atmosphériques": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::School of Geology": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::NOAA/National Severe Storms Laboratory": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Enable Midstream Partners": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::University of Toronto": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::School of Atmospheric Sciences": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::NOAA Geophysical Fluid Dynamics Lab": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Remote Sensing Laboratory": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Earth System Research Laboratory": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Laboratoire d’aérologie": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Institute of Atmospheric Physics": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Karlsruher Institut für Technologie": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Institute for Environmental Research and Sustainable Development": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::World Radiation Center": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Center of Excellence in Earth Systems Modeling &amp": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Schmid College of Science and Technology": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Institute for Astronomy": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::Deutsches Zentrum für Luft- und Raumfahrt e. V.": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::School of Mathematical and Computational Sciences": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
+  },
+  "search::UKAEA Government Division": {
+    "errors": [
+      "query parameter 'mailto' is illegal"
+    ]
   }
 }

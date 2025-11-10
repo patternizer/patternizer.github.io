@@ -586,5 +586,81 @@
   "Chengdu 610041, People’s Republic of China": {
     "lat": 30.659867,
     "lon": 104.063315
+  },
+  "University of Strathclyde, Glasgow, UK": {
+    "lat": 55.8618812,
+    "lon": -4.2419566
+  },
+  "International Institute for Applied Systems Analysis Laxenburg Austria": {
+    "lat": 48.0682722,
+    "lon": 16.3581708
+  },
+  "Wuhan University, Wuhan, China": {
+    "lat": 30.5373581,
+    "lon": 114.361517
+  },
+  "National Physical Laboratory, Teddington TW11 0LW, UK": {
+    "lat": 51.4236576,
+    "lon": -0.3425114
+  },
+  "Deutsches GeoForschungsZentrum, 14473 Potsdam, Germany": {
+    "lat": 52.3851768,
+    "lon": 13.0656952
+  },
+  "Laboratoire atmosphères": {
+    "lat": 48.7780592,
+    "lon": 2.0489311
+  },
+  "Ford Motor Company": {
+    "lat": -38.1026917,
+    "lon": 144.3579854
+  },
+  "Environment and Climate Change Canada, ON, CA": {
+    "lat": 43.7812907,
+    "lon": -79.4683054
+  },
+  "Jülich Supercomputing Centre, Jülich, DE": {
+    "lat": 50.9093154,
+    "lon": 6.405298
+  },
+  "Jet Propulsion Laboratory, CA, US": {
+    "lat": 34.2015125,
+    "lon": -118.1729785
+  },
+  "Harvard-Smithsonian Center for Astrophysics, Massachusetts, US": {
+    "lat": 42.3814411,
+    "lon": -71.1284012
+  },
+  "Royal Belgian Institute for Space Aeronomy, Brussels, BE": {
+    "lat": 50.7970378,
+    "lon": 4.3567451
+  },
+  "National Center for Atmospheric Research, CO, US": {
+    "lat": 39.97789,
+    "lon": -105.2748664
+  },
+  "University of Toronto, University of Toronto, CA": {
+    "lat": 43.663462,
+    "lon": -79.3977597
+  },
+  "Princeton University, Princeton University, US": {
+    "lat": 40.3439116,
+    "lon": -74.6596159
+  },
+  "Jet Propulsion Laboratory, California, US": {
+    "lat": 34.2015125,
+    "lon": -118.1729785
+  },
+  "Alexandria University, Alexandria, Egypt": {
+    "lat": 31.2104662,
+    "lon": 29.9131341
+  },
+  "Cairo, Egypt": {
+    "lat": 30.0443879,
+    "lon": 31.2357257
+  },
+  "Deutsches Zentrum für Luft- und Raumfahrt e. V.": {
+    "lat": 48.7485474,
+    "lon": 9.1016828
   }
 }

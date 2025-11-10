@@ -256,7 +256,7 @@
     ]
   },
   {
-    "name": "Cabot Institute for Environmental Change and Geographical Sciences, University of Bristol, Bristol, UK",
+    "name": "Cabot Institute for Environmental Change and Geographical Sciences, University of Bristol, Bristol, UK — Cabot Institute for Environmental Change and Geographical Sciences, Bristol, UK",
     "desc": "Publication – The Bristol CMIP6 Data Hackathon",
     "coords": [
       51.4538,
@@ -264,7 +264,7 @@
     ]
   },
   {
-    "name": "College of Life and Environmental Sciences, University of Exeter, Exeter, UK",
+    "name": "College of Life and Environmental Sciences, University of Exeter, Exeter, UK — College of Life and Environmental Sciences, Exeter, UK",
     "desc": "Publication – The Bristol CMIP6 Data Hackathon",
     "coords": [
       50.72561,
@@ -272,7 +272,7 @@
     ]
   },
   {
-    "name": "College of Engineering, Mathematics and Physical Sciences, University of Exeter, Exeter, UK",
+    "name": "College of Engineering, Mathematics and Physical Sciences, University of Exeter, Exeter, UK — College of Engineering, Exeter, UK",
     "desc": "Publication – The Bristol CMIP6 Data Hackathon",
     "coords": [
       50.72561,
@@ -280,11 +280,19 @@
     ]
   },
   {
-    "name": "Civil and Environmental Engineering, University of Strathclyde, Glasgow, UK",
+    "name": "Civil and Environmental Engineering, University of Strathclyde, Glasgow, UK — University of Strathclyde, Glasgow, UK",
     "desc": "Publication – The Bristol CMIP6 Data Hackathon",
     "coords": [
-      55.86115,
-      -4.25017
+      55.86188,
+      -4.24196
+    ]
+  },
+  {
+    "name": "International Institute for Applied Systems Analysis (IIASA) Laxenburg Austria — International Institute for Applied Systems Analysis  Laxenburg Austria",
+    "desc": "Publication – The Bristol CMIP6 Data Hackathon",
+    "coords": [
+      48.06827,
+      16.35817
     ]
   },
   {
@@ -392,15 +400,15 @@
     ]
   },
   {
-    "name": "Earth Observation, Climate and Optical Group, National Physical Laboratory, Hampton Road, Teddington TW11 0LW, UK",
+    "name": "Earth Observation, Climate and Optical Group, National Physical Laboratory, Hampton Road, Teddington TW11 0LW, UK — National Physical Laboratory, Teddington TW11 0LW, UK",
     "desc": "Publication – Ten priority science gaps in assessing climate data record quality",
     "coords": [
-      51.42619,
-      -0.33806
+      51.42366,
+      -0.34251
     ]
   },
   {
-    "name": "Department of Meteorology, University of Reading, PO Box 243, Whiteknights, Reading RG6 6BB, UK",
+    "name": "Department of Meteorology, University of Reading, PO Box 243, Whiteknights, Reading RG6 6BB, UK — University of Reading, Reading RG6 6BB, UK",
     "desc": "Publication – Ten priority science gaps in assessing climate data record quality",
     "coords": [
       51.4515,
@@ -408,7 +416,7 @@
     ]
   },
   {
-    "name": "Copernicus Climate Change Service, ECMWF, Shinfield Park, Reading, Berkshire RG2 9AX, UK",
+    "name": "Copernicus Climate Change Service, ECMWF, Shinfield Park, Reading, Berkshire RG2 9AX, UK — Copernicus Climate Change Service, Berkshire RG2 9AX, UK",
     "desc": "Publication – Ten priority science gaps in assessing climate data record quality",
     "coords": [
       51.44624,
@@ -416,7 +424,7 @@
     ]
   },
   {
-    "name": "Institute for Energy Systems, School of Engineering, University of Edinburgh, Grant Institute Kings Buildings, W Mains Road, Edinburgh EH9 3JW, UK",
+    "name": "Institute for Energy Systems, School of Engineering, University of Edinburgh, Grant Institute Kings Buildings, W Mains Road, Edinburgh EH9 3JW, UK — Institute for Energy Systems, Edinburgh EH9 3JW, UK",
     "desc": "Publication – Ten priority science gaps in assessing climate data record quality",
     "coords": [
       55.95335,
@@ -424,15 +432,15 @@
     ]
   },
   {
-    "name": "Deutsches GeoForschungsZentrum, Albert-Einstein-Strasse 42-46, 14473 Potsdam, Germany",
+    "name": "Deutsches GeoForschungsZentrum, Albert-Einstein-Strasse 42-46, 14473 Potsdam, Germany — Deutsches GeoForschungsZentrum, 14473 Potsdam, Germany",
     "desc": "Publication – Ten priority science gaps in assessing climate data record quality",
     "coords": [
-      52.37076,
-      13.05225
+      52.38518,
+      13.0657
     ]
   },
   {
-    "name": "Telespazio France, 26 Avenue Jean François Champollion, 31100 Toulouse, France",
+    "name": "Telespazio France, 26 Avenue Jean François Champollion, 31100 Toulouse, France — Telespazio France, 31100 Toulouse, France",
     "desc": "Publication – Ten priority science gaps in assessing climate data record quality",
     "coords": [
       43.56757,
@@ -496,6 +504,14 @@
     ]
   },
   {
+    "name": "Laboratoire atmosphères, milieux, observations spatiales — Laboratoire atmosphères",
+    "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
+    "coords": [
+      48.77806,
+      2.04893
+    ]
+  },
+  {
     "name": "Sorbonne Université",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
@@ -520,11 +536,11 @@
     ]
   },
   {
-    "name": "Ford Motor Company (United States)",
+    "name": "Ford Motor Company (United States) — Ford Motor Company",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
-      43.05859,
-      -87.88612
+      -38.10269,
+      144.35799
     ]
   },
   {
@@ -632,15 +648,15 @@
     ]
   },
   {
-    "name": "Environment and Climate Change Canada, Downsview, ON, CA",
+    "name": "Environment and Climate Change Canada, Downsview, ON, CA — Environment and Climate Change Canada, ON, CA",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
-      50.00068,
-      -86.00098
+      43.78129,
+      -79.46831
     ]
   },
   {
-    "name": "Climate Science Centre, CSIRO Oceans and Atmosphere, Aspendale, VIC, AU",
+    "name": "Climate Science Centre, CSIRO Oceans and Atmosphere, Aspendale, VIC, AU — Climate Science Centre, VIC, AU",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       -36.59861,
@@ -648,7 +664,7 @@
     ]
   },
   {
-    "name": "Centre for Atmospheric Chemistry, University of Wollongong, Wollongong, NSW, AU",
+    "name": "Centre for Atmospheric Chemistry, University of Wollongong, Wollongong, NSW, AU — Centre for Atmospheric Chemistry, NSW, AU",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       -31.87598,
@@ -656,7 +672,7 @@
     ]
   },
   {
-    "name": "Cooperative Institute for Research in Environmental Sciences, University of Colorado, Boulder, US",
+    "name": "Cooperative Institute for Research in Environmental Sciences, University of Colorado, Boulder, US — Cooperative Institute for Research in Environmental Sciences, Boulder, US",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       40.01499,
@@ -664,7 +680,7 @@
     ]
   },
   {
-    "name": "NOAA Earth System Research Laboratory, Boulder, Colorado, US",
+    "name": "NOAA Earth System Research Laboratory, Boulder, Colorado, US — NOAA Earth System Research Laboratory, Colorado, US",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       38.72518,
@@ -672,15 +688,15 @@
     ]
   },
   {
-    "name": "Jülich Supercomputing Centre, Forschungszentrum Jülich, Jülich, DE",
+    "name": "Jülich Supercomputing Centre, Forschungszentrum Jülich, Jülich, DE — Jülich Supercomputing Centre, Jülich, DE",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
-      50.92209,
-      6.3611
+      50.90932,
+      6.4053
     ]
   },
   {
-    "name": "LATMOS/IPSL, UPMC Univ. Paris 06 Sorbonne Universités, UVSQ, CNRS, Paris, FR",
+    "name": "LATMOS/IPSL, UPMC Univ. Paris 06 Sorbonne Universités, UVSQ, CNRS, Paris, FR — LATMOS/IPSL, Paris, FR",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       48.8535,
@@ -688,15 +704,15 @@
     ]
   },
   {
-    "name": "Jet Propulsion Laboratory, California Institute of Technology, Table Mountain Facility, Wrightwood, CA, US",
+    "name": "Jet Propulsion Laboratory, California Institute of Technology, Table Mountain Facility, Wrightwood, CA, US — Jet Propulsion Laboratory, CA, US",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
-      36.70146,
-      -118.756
+      34.20151,
+      -118.17298
     ]
   },
   {
-    "name": "Research and Advanced Engineering, Ford Motor Company, Dearborn, Michigan, US",
+    "name": "Research and Advanced Engineering, Ford Motor Company, Dearborn, Michigan, US — Research and Advanced Engineering, Michigan, US",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       43.6212,
@@ -704,7 +720,7 @@
     ]
   },
   {
-    "name": "NASA Goddard Space Flight Center, Greenbelt, Maryland, US",
+    "name": "NASA Goddard Space Flight Center, Greenbelt, Maryland, US — NASA Goddard Space Flight Center, Maryland, US",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       39.51624,
@@ -712,7 +728,7 @@
     ]
   },
   {
-    "name": "Harvard-Smithsonian Center for Astrophysics, Cambridge, Massachusetts, US",
+    "name": "Harvard-Smithsonian Center for Astrophysics, Cambridge, Massachusetts, US — Harvard-Smithsonian Center for Astrophysics, Massachusetts, US",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       42.38144,
@@ -720,7 +736,7 @@
     ]
   },
   {
-    "name": "Empa, Swiss Federal Laboratories for Materials Science and Technology, Duebendorf, CH",
+    "name": "Empa, Swiss Federal Laboratories for Materials Science and Technology, Duebendorf, CH — Swiss Federal Laboratories for Materials Science and Technology, Duebendorf, CH",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       47.39699,
@@ -736,15 +752,15 @@
     ]
   },
   {
-    "name": "Royal Belgian Institute for Space Aeronomy (BIRA-IASB), Brussels, BE",
+    "name": "Royal Belgian Institute for Space Aeronomy (BIRA-IASB), Brussels, BE — Royal Belgian Institute for Space Aeronomy, Brussels, BE",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
-      50.84656,
-      4.3517
+      50.79704,
+      4.35675
     ]
   },
   {
-    "name": "National Center for Atmospheric Research, Boulder, CO, US",
+    "name": "National Center for Atmospheric Research, Boulder, CO, US — National Center for Atmospheric Research, CO, US",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       39.97789,
@@ -752,7 +768,7 @@
     ]
   },
   {
-    "name": "Agencia Estatal de Meteorología, Izana Atmospheric Research Centre, Santa Cruz de Tenerife, ES",
+    "name": "Agencia Estatal de Meteorología, Izana Atmospheric Research Centre, Santa Cruz de Tenerife, ES — Izana Atmospheric Research Centre, Santa Cruz de Tenerife, ES",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       28.46718,
@@ -760,7 +776,7 @@
     ]
   },
   {
-    "name": "Laboratoire Inter-universitaire des Systèmes Atmosphériques (LISA), UMR7583, Universités Paris-Est Créteil et Paris, Diderot, CNRS, Créteil, FR",
+    "name": "Laboratoire Inter-universitaire des Systèmes Atmosphériques (LISA), UMR7583, Universités Paris-Est Créteil et Paris, Diderot, CNRS, Créteil, FR — Laboratoire Inter-universitaire des Systèmes Atmosphériques, Créteil, FR",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       48.77715,
@@ -768,7 +784,7 @@
     ]
   },
   {
-    "name": "Department of Meteorology and Climatology, School of Geology, Aristotle University of Thessaloniki, Thessaloniki, GR",
+    "name": "Department of Meteorology and Climatology, School of Geology, Aristotle University of Thessaloniki, Thessaloniki, GR — School of Geology, Thessaloniki, GR",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       40.64032,
@@ -784,7 +800,7 @@
     ]
   },
   {
-    "name": "NOAA/National Severe Storms Laboratory, Norman, OK, US",
+    "name": "NOAA/National Severe Storms Laboratory, Norman, OK, US — NOAA/National Severe Storms Laboratory, OK, US",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       34.95508,
@@ -792,7 +808,7 @@
     ]
   },
   {
-    "name": "Enable Midstream Partners, Headquarters, Oklahoma City, US",
+    "name": "Enable Midstream Partners, Headquarters, Oklahoma City, US — Enable Midstream Partners, Oklahoma City, US",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       35.47299,
@@ -800,15 +816,15 @@
     ]
   },
   {
-    "name": "Department of Geography and Planning, University of Toronto, CA",
+    "name": "Department of Geography and Planning, University of Toronto, CA — University of Toronto, University of Toronto, CA",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
-      43.66402,
-      -79.39819
+      43.66346,
+      -79.39776
     ]
   },
   {
-    "name": "School of Atmospheric Sciences, Nanjing University, Nanjing, CN",
+    "name": "School of Atmospheric Sciences, Nanjing University, Nanjing, CN — School of Atmospheric Sciences, Nanjing, CN",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       32.04383,
@@ -816,15 +832,15 @@
     ]
   },
   {
-    "name": "Atmospheric and Oceanic Sciences, Princeton University, US",
+    "name": "Atmospheric and Oceanic Sciences, Princeton University, US — Princeton University, Princeton University, US",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
-      40.33868,
-      -74.65837
+      40.34391,
+      -74.65962
     ]
   },
   {
-    "name": "NOAA Geophysical Fluid Dynamics Lab, Princeton, New Jersey, US",
+    "name": "NOAA Geophysical Fluid Dynamics Lab, Princeton, New Jersey, US — NOAA Geophysical Fluid Dynamics Lab, New Jersey, US",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       40.07574,
@@ -832,7 +848,7 @@
     ]
   },
   {
-    "name": "Remote Sensing Laboratory (RSLAB), Department of Signal Theory and Communications, Universitat Politècnica de Catalunya (UPC), Barcelona, ES",
+    "name": "Remote Sensing Laboratory (RSLAB), Department of Signal Theory and Communications, Universitat Politècnica de Catalunya (UPC), Barcelona, ES — Remote Sensing Laboratory, Barcelona, ES",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       41.38258,
@@ -840,7 +856,7 @@
     ]
   },
   {
-    "name": "Global Monitoring Division, Earth System Research Laboratory, National Oceanic and Atmospheric Administration, Boulder, Colorado, US",
+    "name": "Global Monitoring Division, Earth System Research Laboratory, National Oceanic and Atmospheric Administration, Boulder, Colorado, US — Earth System Research Laboratory, Colorado, US",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       38.72518,
@@ -848,7 +864,7 @@
     ]
   },
   {
-    "name": "Laboratoire d’aérologie, CNRS UMR 5560, Observatoire Midi-Pyrénée, Université de Toulouse III, Toulouse, FR",
+    "name": "Laboratoire d’aérologie, CNRS UMR 5560, Observatoire Midi-Pyrénée, Université de Toulouse III, Toulouse, FR — Laboratoire d’aérologie, Toulouse, FR",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       43.60446,
@@ -856,7 +872,7 @@
     ]
   },
   {
-    "name": "Institute of Atmospheric Physics, Earth System Modelling, Oberpfaffenhofen-Wessling, DE",
+    "name": "Institute of Atmospheric Physics, Earth System Modelling, Oberpfaffenhofen-Wessling, DE — Institute of Atmospheric Physics, Oberpfaffenhofen-Wessling, DE",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
       48.07326,
@@ -872,11 +888,11 @@
     ]
   },
   {
-    "name": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, US",
+    "name": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, US — Jet Propulsion Laboratory, California, US",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
-      36.70146,
-      -118.756
+      34.20151,
+      -118.17298
     ]
   },
   {
@@ -904,7 +920,7 @@
     ]
   },
   {
-    "name": "Institute for Environmental Research and Sustainable Development, National Observatory of Athens (IERSD/NOA), 15236 Athens, Greece",
+    "name": "Institute for Environmental Research and Sustainable Development, National Observatory of Athens (IERSD/NOA), 15236 Athens, Greece — Institute for Environmental Research and Sustainable Development, 15236 Athens, Greece",
     "desc": "Publication – Earth observation-based estimation and forecasting of particulate matter impact on solar energy in Egypt",
     "coords": [
       38.05138,
@@ -912,7 +928,7 @@
     ]
   },
   {
-    "name": "Physicalisch-Meteorologisches Observatorium Davos, World Radiation Center (PMOD/WRC), CH-7260 Davos, Switzerland",
+    "name": "Physicalisch-Meteorologisches Observatorium Davos, World Radiation Center (PMOD/WRC), CH-7260 Davos, Switzerland — World Radiation Center, CH-7260 Davos, Switzerland",
     "desc": "Publication – Earth observation-based estimation and forecasting of particulate matter impact on solar energy in Egypt",
     "coords": [
       46.80436,
@@ -920,7 +936,7 @@
     ]
   },
   {
-    "name": "Center of Excellence in Earth Systems Modeling &amp; Observations, Chapman University, Orange, CA 92866, USA",
+    "name": "Center of Excellence in Earth Systems Modeling &amp; Observations, Chapman University, Orange, CA 92866, USA — Center of Excellence in Earth Systems Modeling &amp, CA 92866, USA",
     "desc": "Publication – Earth observation-based estimation and forecasting of particulate matter impact on solar energy in Egypt",
     "coords": [
       33.84134,
@@ -928,7 +944,7 @@
     ]
   },
   {
-    "name": "Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA",
+    "name": "Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA — Schmid College of Science and Technology, CA 92866, USA",
     "desc": "Publication – Earth observation-based estimation and forecasting of particulate matter impact on solar energy in Egypt",
     "coords": [
       33.84134,
@@ -936,15 +952,15 @@
     ]
   },
   {
-    "name": "Department of Environmental Sciences, Faculty of Science, Alexandria University, Moharem Bek, Alexandria 21522, Egypt",
+    "name": "Department of Environmental Sciences, Faculty of Science, Alexandria University, Moharem Bek, Alexandria 21522, Egypt — Alexandria University, Alexandria, Egypt",
     "desc": "Publication – Earth observation-based estimation and forecasting of particulate matter impact on solar energy in Egypt",
     "coords": [
-      31.19918,
-      29.89517
+      31.21047,
+      29.91313
     ]
   },
   {
-    "name": "Department of Meteorology, University of Reading, Reading RG6 6BB, UK",
+    "name": "Department of Meteorology, University of Reading, Reading RG6 6BB, UK — University of Reading, Reading RG6 6BB, UK",
     "desc": "Publication – Earth observation-based estimation and forecasting of particulate matter impact on solar energy in Egypt",
     "coords": [
       51.4515,
@@ -952,7 +968,7 @@
     ]
   },
   {
-    "name": "Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing, National Observatory of Athens (IAASARS/NOA), 15236 Athens, Greece",
+    "name": "Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing, National Observatory of Athens (IAASARS/NOA), 15236 Athens, Greece — Institute for Astronomy, 15236 Athens, Greece",
     "desc": "Publication – Earth observation-based estimation and forecasting of particulate matter impact on solar energy in Egypt",
     "coords": [
       38.05138,
@@ -960,7 +976,7 @@
     ]
   },
   {
-    "name": "New and Renewable Energy Authority (NREA), Cairo 4544, Egypt",
+    "name": "New and Renewable Energy Authority (NREA), Cairo 4544, Egypt — New and Renewable Energy Authority, Cairo, Egypt",
     "desc": "Publication – Earth observation-based estimation and forecasting of particulate matter impact on solar energy in Egypt",
     "coords": [
       30.04439,
@@ -1096,11 +1112,11 @@
     ]
   },
   {
-    "name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+    "name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) — Deutsches Zentrum für Luft- und Raumfahrt e. V.",
     "desc": "Publication – Anthropogenic sulphur dioxide load over China as observed from different satellite sensors",
     "coords": [
-      52.31512,
-      10.56405
+      48.74855,
+      9.10168
     ]
   },
   {
@@ -1320,7 +1336,7 @@
     ]
   },
   {
-    "name": "Southwestern Institute of Physics, P.O. Box 432, Chengdu 610041, People’s Republic of China",
+    "name": "Southwestern Institute of Physics, P.O. Box 432, Chengdu 610041, People’s Republic of China — Southwestern Institute of Physics, Chengdu 610041, People’s Republic of China",
     "desc": "Publication – Wave-particle dynamics in a hot inhomogenous fusion plasma (PhD)",
     "coords": [
       30.65987,
@@ -1344,7 +1360,7 @@
     ]
   },
   {
-    "name": "School of Mathematical and Computational Sciences, University of St. Andrews, St. Andrews, Fife, KY16 9SS, United Kingdom",
+    "name": "School of Mathematical and Computational Sciences, University of St. Andrews, St. Andrews, Fife, KY16 9SS, United Kingdom — School of Mathematical and Computational Sciences, KY16 9SS, United Kingdom",
     "desc": "Publication – Wave propagation through cyclotron resonance in the presence of large Larmor radius particles",
     "coords": [
       56.34036,
@@ -1352,7 +1368,7 @@
     ]
   },
   {
-    "name": "UKAEA Government Division (UKAEA/Euratom Fusion Association), Fusion, Culham, Abingdon, Oxon, OX14 3DB, United Kingdom",
+    "name": "UKAEA Government Division (UKAEA/Euratom Fusion Association), Fusion, Culham, Abingdon, Oxon, OX14 3DB, United Kingdom — UKAEA Government Division, OX14 3DB, United Kingdom",
     "desc": "Publication – Wave propagation through cyclotron resonance in the presence of large Larmor radius particles",
     "coords": [
       51.65845,

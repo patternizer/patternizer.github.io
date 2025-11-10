@@ -1,0 +1,632 @@
+{
+  "name:university of east anglia": {
+    "label": "University of East Anglia",
+    "lat": 52.6210623,
+    "lon": 1.2356187
+  },
+  "name:university of york": {
+    "label": "University of York",
+    "lat": 53.9453903,
+    "lon": -1.0314593
+  },
+  "name:met office": {
+    "label": "Met Office",
+    "lat": 50.7270226,
+    "lon": -3.4751568
+  },
+  "name:department of chemistry university of york york uk": {
+    "label": "Department of Chemistry University of York  York UK",
+    "lat": 53.9480831,
+    "lon": -1.0476774
+  },
+  "name:met office exeter uk": {
+    "label": "Met Office  Exeter UK",
+    "lat": 50.7270226,
+    "lon": -3.4751568
+  },
+  "name:national oceanography centre": {
+    "label": "National Oceanography Centre",
+    "lat": 50.8926271,
+    "lon": -1.3947018
+  },
+  "name:university of reading": {
+    "label": "University of Reading",
+    "lat": 43.675243,
+    "lon": -79.388612
+  },
+  "name:university of edinburgh": {
+    "label": "University of Edinburgh",
+    "lat": 55.9440765,
+    "lon": -3.1883736
+  },
+  "name:university of bristol": {
+    "label": "University of Bristol",
+    "lat": 51.4905582,
+    "lon": -2.6304825
+  },
+  "name:university of exeter": {
+    "label": "University of Exeter",
+    "lat": 50.1701604,
+    "lon": -5.1241802
+  },
+  "name:university of strathclyde": {
+    "label": "University of Strathclyde",
+    "lat": 55.8618812,
+    "lon": -4.2419566
+  },
+  "name:university of leeds": {
+    "label": "University of Leeds",
+    "lat": 53.8057925,
+    "lon": -1.555111
+  },
+  "name:international institute for applied systems analysis": {
+    "label": "International Institute for Applied Systems Analysis",
+    "lat": 48.0682722,
+    "lon": 16.3581708
+  },
+  "name:cabot institute for environmental change and geographical sciences, university of bristol, bristol, uk": {
+    "label": "Cabot Institute for Environmental Change and Geographical Sciences, Bristol, UK",
+    "lat": 51.4538022,
+    "lon": -2.5972985
+  },
+  "name:college of life and environmental sciences, university of exeter, exeter, uk": {
+    "label": "College of Life and Environmental Sciences, Exeter, UK",
+    "lat": 50.7256138,
+    "lon": -3.5269209
+  },
+  "name:college of engineering, mathematics and physical sciences, university of exeter, exeter, uk": {
+    "label": "College of Engineering, Exeter, UK",
+    "lat": 50.7256138,
+    "lon": -3.5269209
+  },
+  "name:civil and environmental engineering, university of strathclyde, glasgow, uk": {
+    "label": "University of Strathclyde, Glasgow, UK",
+    "lat": 55.8618812,
+    "lon": -4.2419566
+  },
+  "name:international institute for applied systems analysis (iiasa) laxenburg austria": {
+    "label": "International Institute for Applied Systems Analysis  Laxenburg Austria",
+    "lat": 48.0682722,
+    "lon": 16.3581708
+  },
+  "name:university of leicester": {
+    "label": "University of Leicester",
+    "lat": 52.6106077,
+    "lon": -1.0872921
+  },
+  "name:rutherford appleton laboratory": {
+    "label": "Rutherford Appleton Laboratory",
+    "lat": 51.570862,
+    "lon": -1.315498
+  },
+  "name:a-t society": {
+    "label": "A-T Society",
+    "lat": 60.2312082,
+    "lon": 24.8586301
+  },
+  "name:european space research and technology centre": {
+    "label": "European Space Research and Technology Centre",
+    "lat": 52.2179131,
+    "lon": 4.4218478
+  },
+  "name:wuhan university": {
+    "label": "Wuhan University, Wuhan, China",
+    "lat": 30.5373581,
+    "lon": 114.361517
+  },
+  "name:national physical laboratory": {
+    "label": "National Physical Laboratory",
+    "lat": 51.4236576,
+    "lon": -0.3425114
+  },
+  "name:european centre for medium-range weather forecasts": {
+    "label": "European Centre for Medium-Range Weather Forecasts",
+    "lat": 51.4197152,
+    "lon": -0.9501968
+  },
+  "name:earth observation, climate and optical group, national physical laboratory, hampton road, teddington tw11 0lw, uk": {
+    "label": "National Physical Laboratory, Teddington TW11 0LW, UK",
+    "lat": 51.4236576,
+    "lon": -0.3425114
+  },
+  "name:department of meteorology, university of reading, po box 243, whiteknights, reading rg6 6bb, uk": {
+    "label": "University of Reading, Reading RG6 6BB, UK",
+    "lat": 51.4514953,
+    "lon": -0.9836342
+  },
+  "name:copernicus climate change service, ecmwf, shinfield park, reading, berkshire rg2 9ax, uk": {
+    "label": "Copernicus Climate Change Service, Berkshire RG2 9AX, UK",
+    "lat": 51.4462383,
+    "lon": -0.9656273
+  },
+  "name:institute for energy systems, school of engineering, university of edinburgh, grant institute kings buildings, w mains road, edinburgh eh9 3jw, uk": {
+    "label": "Institute for Energy Systems, Edinburgh EH9 3JW, UK",
+    "lat": 55.9533456,
+    "lon": -3.1883749
+  },
+  "name:deutsches geoforschungszentrum, albert-einstein-strasse 42-46, 14473 potsdam, germany": {
+    "label": "Deutsches GeoForschungsZentrum, 14473 Potsdam, Germany",
+    "lat": 52.3851768,
+    "lon": 13.0656952
+  },
+  "name:telespazio france, 26 avenue jean françois champollion, 31100 toulouse, france": {
+    "label": "Telespazio France, 31100 Toulouse, France",
+    "lat": 43.5675736,
+    "lon": 1.3975057
+  },
+  "name:national centre for earth observation, reading rg6 6al, uk": {
+    "label": "National Centre for Earth Observation, Reading RG6 6AL, UK",
+    "lat": 51.4514953,
+    "lon": -0.9836342
+  },
+  "name:environment and climate change canada": {
+    "label": "Environment and Climate Change Canada",
+    "lat": 43.7812907,
+    "lon": -79.4683054
+  },
+  "name:university of wollongong": {
+    "label": "University of Wollongong",
+    "lat": -34.4050554,
+    "lon": 150.8783465
+  },
+  "name:university of colorado boulder": {
+    "label": "University of Colorado Boulder",
+    "lat": 40.0070061,
+    "lon": -105.2664423
+  },
+  "name:forschungszentrum jülich": {
+    "label": "Forschungszentrum Jülich",
+    "lat": 50.9054008,
+    "lon": 6.4118689
+  },
+  "name:centre national de la recherche scientifique": {
+    "label": "Centre National de la Recherche Scientifique",
+    "lat": 45.7804582,
+    "lon": 4.874957
+  },
+  "name:institut pierre-simon laplace": {
+    "label": "Institut Pierre-Simon Laplace",
+    "lat": 48.7780921,
+    "lon": 2.0490557
+  },
+  "name:laboratoire atmosphères, milieux, observations spatiales": {
+    "label": "Laboratoire atmosphères",
+    "lat": 48.7780592,
+    "lon": 2.0489311
+  },
+  "name:sorbonne université": {
+    "label": "Sorbonne Université",
+    "lat": 48.8379885,
+    "lon": 2.3611216
+  },
+  "name:université paris cité": {
+    "label": "Université Paris Cité",
+    "lat": 48.8514684,
+    "lon": 2.341089
+  },
+  "name:jet propulsion laboratory": {
+    "label": "Jet Propulsion Laboratory",
+    "lat": 34.2015125,
+    "lon": -118.1729785
+  },
+  "name:ford motor company (united states)": {
+    "label": "Ford Motor Company",
+    "lat": -38.1026917,
+    "lon": 144.3579854
+  },
+  "name:goddard space flight center": {
+    "label": "Goddard Space Flight Center",
+    "lat": 38.9998313,
+    "lon": -76.8458613
+  },
+  "name:eth zurich": {
+    "label": "ETH Zurich",
+    "lat": 47.413218,
+    "lon": 8.5374914
+  },
+  "name:royal belgian institute for space aeronomy": {
+    "label": "Royal Belgian Institute for Space Aeronomy",
+    "lat": 50.7970378,
+    "lon": 4.3567451
+  },
+  "name:agencia estatal de meteorología": {
+    "label": "Agencia Estatal de Meteorología",
+    "lat": 40.4523141,
+    "lon": -3.7244826
+  },
+  "name:université paris-est créteil": {
+    "label": "Université Paris-Est Créteil",
+    "lat": 48.7882159,
+    "lon": 2.4439219
+  },
+  "name:aristotle university of thessaloniki": {
+    "label": "Aristotle University of Thessaloniki",
+    "lat": 40.6296719,
+    "lon": 22.9591469
+  },
+  "name:national institute of meteorology": {
+    "label": "National Institute of Meteorology",
+    "lat": 14.6482157,
+    "lon": 121.0702357
+  },
+  "name:university of oklahoma": {
+    "label": "University of Oklahoma",
+    "lat": 35.1959878,
+    "lon": -97.4457083
+  },
+  "name:nanjing university": {
+    "label": "Nanjing University",
+    "lat": 32.0565957,
+    "lon": 118.7740883
+  },
+  "name:university of california system": {
+    "label": "University of California System",
+    "lat": 32.8748708,
+    "lon": -117.2315823
+  },
+  "name:princeton university": {
+    "label": "Princeton University",
+    "lat": 40.3386752,
+    "lon": -74.6583655
+  },
+  "name:universitat politècnica de catalunya": {
+    "label": "Universitat Politècnica de Catalunya",
+    "lat": 41.2214474,
+    "lon": 1.7301449
+  },
+  "name:national oceanic and atmospheric administration": {
+    "label": "National Oceanic and Atmospheric Administration",
+    "lat": 36.0030305,
+    "lon": -84.2489839
+  },
+  "name:environment and climate change canada, downsview, on, ca": {
+    "label": "Environment and Climate Change Canada, ON, CA",
+    "lat": 43.7812907,
+    "lon": -79.4683054
+  },
+  "name:climate science centre, csiro oceans and atmosphere, aspendale, vic, au": {
+    "label": "Climate Science Centre, VIC, AU",
+    "lat": -36.5986096,
+    "lon": 144.6780052
+  },
+  "name:centre for atmospheric chemistry, university of wollongong, wollongong, nsw, au": {
+    "label": "Centre for Atmospheric Chemistry, NSW, AU",
+    "lat": -31.8759835,
+    "lon": 147.2869493
+  },
+  "name:cooperative institute for research in environmental sciences, university of colorado, boulder, us": {
+    "label": "Cooperative Institute for Research in Environmental Sciences, Boulder, US",
+    "lat": 40.0149856,
+    "lon": -105.270545
+  },
+  "name:noaa earth system research laboratory, boulder, colorado, us": {
+    "label": "NOAA Earth System Research Laboratory, Colorado, US",
+    "lat": 38.7251776,
+    "lon": -105.607716
+  },
+  "name:jülich supercomputing centre, forschungszentrum jülich, jülich, de": {
+    "label": "Jülich Supercomputing Centre, Jülich, DE",
+    "lat": 50.9093154,
+    "lon": 6.405298
+  },
+  "name:latmos/ipsl, upmc univ. paris 06 sorbonne universités, uvsq, cnrs, paris, fr": {
+    "label": "LATMOS/IPSL, Paris, FR",
+    "lat": 48.8534951,
+    "lon": 2.3483915
+  },
+  "name:jet propulsion laboratory, california institute of technology, table mountain facility, wrightwood, ca, us": {
+    "label": "Jet Propulsion Laboratory, CA, US",
+    "lat": 34.2015125,
+    "lon": -118.1729785
+  },
+  "name:research and advanced engineering, ford motor company, dearborn, michigan, us": {
+    "label": "Research and Advanced Engineering, Michigan, US",
+    "lat": 43.6211955,
+    "lon": -84.6824346
+  },
+  "name:nasa goddard space flight center, greenbelt, maryland, us": {
+    "label": "NASA Goddard Space Flight Center, Maryland, US",
+    "lat": 39.5162401,
+    "lon": -76.9382069
+  },
+  "name:harvard-smithsonian center for astrophysics, cambridge, massachusetts, us": {
+    "label": "Harvard-Smithsonian Center for Astrophysics, Massachusetts, US",
+    "lat": 42.3814411,
+    "lon": -71.1284012
+  },
+  "name:empa, swiss federal laboratories for materials science and technology, duebendorf, ch": {
+    "label": "Swiss Federal Laboratories for Materials Science and Technology, Duebendorf, CH",
+    "lat": 47.3969942,
+    "lon": 8.6185666
+  },
+  "name:department of environmental systems science, zürich, ch": {
+    "label": "Department of Environmental Systems Science, Zürich, CH",
+    "lat": 47.3744489,
+    "lon": 8.5410422
+  },
+  "name:royal belgian institute for space aeronomy (bira-iasb), brussels, be": {
+    "label": "Royal Belgian Institute for Space Aeronomy, Brussels, BE",
+    "lat": 50.7970378,
+    "lon": 4.3567451
+  },
+  "name:national center for atmospheric research, boulder, co, us": {
+    "label": "National Center for Atmospheric Research, CO, US",
+    "lat": 39.97789,
+    "lon": -105.2748664
+  },
+  "name:agencia estatal de meteorología, izana atmospheric research centre, santa cruz de tenerife, es": {
+    "label": "Izana Atmospheric Research Centre, Santa Cruz de Tenerife, ES",
+    "lat": 28.467178,
+    "lon": -16.2507843
+  },
+  "name:laboratoire inter-universitaire des systèmes atmosphériques (lisa), umr7583, universités paris-est créteil et paris, diderot, cnrs, créteil, fr": {
+    "label": "Laboratoire Inter-universitaire des Systèmes Atmosphériques, Créteil, FR",
+    "lat": 48.7771486,
+    "lon": 2.4530731
+  },
+  "name:department of meteorology and climatology, school of geology, aristotle university of thessaloniki, thessaloniki, gr": {
+    "label": "School of Geology, Thessaloniki, GR",
+    "lat": 40.6403167,
+    "lon": 22.9352716
+  },
+  "name:cooperative institute for mesoscale meteorological studies, the university of oklahoma, us": {
+    "label": "Cooperative Institute for Mesoscale Meteorological Studies, The University of Oklahoma, US",
+    "lat": 35.4755069,
+    "lon": -97.4961201
+  },
+  "name:noaa/national severe storms laboratory, norman, ok, us": {
+    "label": "NOAA/National Severe Storms Laboratory, OK, US",
+    "lat": 34.9550817,
+    "lon": -97.2684063
+  },
+  "name:enable midstream partners, headquarters, oklahoma city, us": {
+    "label": "Enable Midstream Partners, Oklahoma City, US",
+    "lat": 35.4729886,
+    "lon": -97.5170536
+  },
+  "name:department of geography and planning, university of toronto, ca": {
+    "label": "University of Toronto, University of Toronto, CA",
+    "lat": 43.663462,
+    "lon": -79.3977597
+  },
+  "name:school of atmospheric sciences, nanjing university, nanjing, cn": {
+    "label": "School of Atmospheric Sciences, Nanjing, CN",
+    "lat": 32.0438284,
+    "lon": 118.7788631
+  },
+  "name:atmospheric and oceanic sciences, princeton university, us": {
+    "label": "Princeton University, Princeton University, US",
+    "lat": 40.3439116,
+    "lon": -74.6596159
+  },
+  "name:noaa geophysical fluid dynamics lab, princeton, new jersey, us": {
+    "label": "NOAA Geophysical Fluid Dynamics Lab, New Jersey, US",
+    "lat": 40.0757384,
+    "lon": -74.4041622
+  },
+  "name:remote sensing laboratory (rslab), department of signal theory and communications, universitat politècnica de catalunya (upc), barcelona, es": {
+    "label": "Remote Sensing Laboratory, Barcelona, ES",
+    "lat": 41.3825802,
+    "lon": 2.177073
+  },
+  "name:global monitoring division, earth system research laboratory, national oceanic and atmospheric administration, boulder, colorado, us": {
+    "label": "Earth System Research Laboratory, Colorado, US",
+    "lat": 38.7251776,
+    "lon": -105.607716
+  },
+  "name:laboratoire d’aérologie, cnrs umr 5560, observatoire midi-pyrénée, université de toulouse iii, toulouse, fr": {
+    "label": "Laboratoire d’aérologie, Toulouse, FR",
+    "lat": 43.6044638,
+    "lon": 1.4442433
+  },
+  "name:institute of atmospheric physics, earth system modelling, oberpfaffenhofen-wessling, de": {
+    "label": "Institute of Atmospheric Physics, Oberpfaffenhofen-Wessling, DE",
+    "lat": 48.0732582,
+    "lon": 11.2649062
+  },
+  "name:karlsruher institut für technologie, garmisch-partenkirchen, de": {
+    "label": "Karlsruher Institut für Technologie, Garmisch-Partenkirchen, DE",
+    "lat": 47.4923741,
+    "lon": 11.0962815
+  },
+  "name:jet propulsion laboratory, california institute of technology, pasadena, california, us": {
+    "label": "Jet Propulsion Laboratory, California, US",
+    "lat": 34.2015125,
+    "lon": -118.1729785
+  },
+  "name:alexandria university": {
+    "label": "Alexandria University, Alexandria, Egypt",
+    "lat": 31.2104662,
+    "lon": 29.9131341
+  },
+  "name:chapman university": {
+    "label": "Chapman University",
+    "lat": 33.7933817,
+    "lon": -117.8516959
+  },
+  "name:institute for environmental research and sustainable development, national observatory of athens (iersd/noa), 15236 athens, greece": {
+    "label": "Institute for Environmental Research and Sustainable Development, 15236 Athens, Greece",
+    "lat": 38.0513804,
+    "lon": 23.8628736
+  },
+  "name:physicalisch-meteorologisches observatorium davos, world radiation center (pmod/wrc), ch-7260 davos, switzerland": {
+    "label": "World Radiation Center, CH-7260 Davos, Switzerland",
+    "lat": 46.8043626,
+    "lon": 9.8463562
+  },
+  "name:center of excellence in earth systems modeling &amp; observations, chapman university, orange, ca 92866, usa": {
+    "label": "Center of Excellence in Earth Systems Modeling &amp, CA 92866, USA",
+    "lat": 33.8413371,
+    "lon": -117.9949451
+  },
+  "name:schmid college of science and technology, chapman university, orange, ca 92866, usa": {
+    "label": "Schmid College of Science and Technology, CA 92866, USA",
+    "lat": 33.8413371,
+    "lon": -117.9949451
+  },
+  "name:department of environmental sciences, faculty of science, alexandria university, moharem bek, alexandria 21522, egypt": {
+    "label": "Alexandria University, Alexandria, Egypt",
+    "lat": 31.2104662,
+    "lon": 29.9131341
+  },
+  "name:department of meteorology, university of reading, reading rg6 6bb, uk": {
+    "label": "University of Reading, Reading RG6 6BB, UK",
+    "lat": 51.4514953,
+    "lon": -0.9836342
+  },
+  "name:institute for astronomy, astrophysics, space applications and remote sensing, national observatory of athens (iaasars/noa), 15236 athens, greece": {
+    "label": "Institute for Astronomy, 15236 Athens, Greece",
+    "lat": 38.0513804,
+    "lon": 23.8628736
+  },
+  "name:new and renewable energy authority (nrea), cairo 4544, egypt": {
+    "label": "New and Renewable Energy Authority, Cairo, Egypt",
+    "lat": 30.0443879,
+    "lon": 31.2357257
+  },
+  "name:national technical university of athens": {
+    "label": "National Technical University of Athens",
+    "lat": 37.9878502,
+    "lon": 23.7318258
+  },
+  "name:colorado state university": {
+    "label": "Colorado State University",
+    "lat": 40.5706567,
+    "lon": -105.0853995
+  },
+  "name:university of patras": {
+    "label": "University of Patras",
+    "lat": 38.2869279,
+    "lon": 21.7851062
+  },
+  "name:royal netherlands meteorological institute": {
+    "label": "Royal Netherlands Meteorological Institute",
+    "lat": 52.1005619,
+    "lon": 5.1774887
+  },
+  "name:deutsches zentrum für luft- und raumfahrt e. v. (dlr)": {
+    "label": "Deutsches Zentrum für Luft- und Raumfahrt e. V.",
+    "lat": 48.7485474,
+    "lon": 9.1016828
+  },
+  "name:university of bremen": {
+    "label": "University of Bremen",
+    "lat": 53.1079646,
+    "lon": 8.8556646
+  },
+  "name:national and kapodistrian university of athens": {
+    "label": "National and Kapodistrian University of Athens",
+    "lat": 37.970038,
+    "lon": 23.7652367
+  },
+  "name:university of ioannina": {
+    "label": "University of Ioannina",
+    "lat": 39.6156591,
+    "lon": 20.8412647
+  },
+  "name:universidad de granada": {
+    "label": "Universidad de Granada",
+    "lat": 37.1809009,
+    "lon": -3.6000115
+  },
+  "name:universitat jaume i": {
+    "label": "Universitat Jaume I",
+    "lat": 39.994312,
+    "lon": -0.0713962
+  },
+  "name:university of georgia": {
+    "label": "University of Georgia",
+    "lat": 33.9404278,
+    "lon": -83.373049
+  },
+  "name:hellenic open university": {
+    "label": "Hellenic Open University",
+    "lat": 38.2065694,
+    "lon": 21.7679368
+  },
+  "name:finnish meteorological institute": {
+    "label": "Finnish Meteorological Institute",
+    "lat": 60.2036887,
+    "lon": 24.9612813
+  },
+  "name:barcelona supercomputing center": {
+    "label": "Barcelona Supercomputing Center",
+    "lat": 41.3897809,
+    "lon": 2.1163849
+  },
+  "name:west virginia university": {
+    "label": "West Virginia University",
+    "lat": 39.6348398,
+    "lon": -79.9542095
+  },
+  "name:washington university in st. louis": {
+    "label": "Washington University in St. Louis",
+    "lat": 38.6472402,
+    "lon": -90.3084017
+  },
+  "name:technische universität berlin": {
+    "label": "Technische Universität Berlin",
+    "lat": 52.5110159,
+    "lon": 13.3269541
+  },
+  "name:national hellenic research foundation": {
+    "label": "National Hellenic Research Foundation",
+    "lat": 37.9731127,
+    "lon": 23.745748
+  },
+  "name:consejo superior de investigaciones científicas": {
+    "label": "Consejo Superior de Investigaciones Científicas",
+    "lat": 40.4407145,
+    "lon": -3.6874014
+  },
+  "name:chalmers university of technology": {
+    "label": "Chalmers University of Technology",
+    "lat": 57.6897462,
+    "lon": 11.9765259
+  },
+  "name:hungarian academy of sciences": {
+    "label": "Hungarian Academy of Sciences",
+    "lat": 47.5012627,
+    "lon": 19.0461337
+  },
+  "name:centro nacional de biotecnología": {
+    "label": "Centro Nacional de Biotecnología",
+    "lat": 40.5446242,
+    "lon": -3.690119
+  },
+  "name:shanghai jiao tong university": {
+    "label": "Shanghai Jiao Tong University",
+    "lat": 31.2008912,
+    "lon": 121.4283949
+  },
+  "name:southwestern institute of physics": {
+    "label": "Southwestern Institute of Physics",
+    "lat": 30.5734303,
+    "lon": 104.021117
+  },
+  "name:southwestern institute of physics, p.o. box 432, chengdu 610041, people’s republic of china": {
+    "label": "Southwestern Institute of Physics, Chengdu 610041, People’s Republic of China",
+    "lat": 30.659867,
+    "lon": 104.063315
+  },
+  "name:university of st andrews": {
+    "label": "University of St Andrews",
+    "lat": 56.3398198,
+    "lon": -2.8117937
+  },
+  "name:culham centre for fusion energy": {
+    "label": "Culham Centre for Fusion Energy",
+    "lat": 51.6576683,
+    "lon": -1.2262126
+  },
+  "name:school of mathematical and computational sciences, university of st. andrews, st. andrews, fife, ky16 9ss, united kingdom": {
+    "label": "School of Mathematical and Computational Sciences, KY16 9SS, United Kingdom",
+    "lat": 56.34036,
+    "lon": -2.80878
+  },
+  "name:ukaea government division (ukaea/euratom fusion association), fusion, culham, abingdon, oxon, ox14 3db, united kingdom": {
+    "label": "UKAEA Government Division, OX14 3DB, United Kingdom",
+    "lat": 51.6584488,
+    "lon": -1.2291063
+  }
+}
