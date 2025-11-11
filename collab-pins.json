@@ -3,96 +3,96 @@
     "name": "Lowestoft, UK",
     "desc": "Work – Centre for Environment, Fisheries & Aquaculture Science (CEFAS), Lowestoft, UK",
     "coords": [
-      52.47663,
-      1.75376
+      52.45885,
+      1.73965
     ]
   },
   {
     "name": "Norwich, UK",
     "desc": "Work – Climatic Research Unit, UEA, Norwich, UK",
     "coords": [
-      52.62856,
-      1.2924
+      52.62178,
+      1.23854
     ]
   },
   {
     "name": "Reading, UK",
     "desc": "Work – Department of Meteorology, Univesity of Reading, Reading, UK",
     "coords": [
-      51.4515,
-      -0.98363
+      51.43876,
+      -0.93692      
     ]
   },
   {
     "name": "Thessaloniki, Greece",
     "desc": "Work – Laboratory of Atmospheric Physics, Aristotle University of Thessaloniki, Thessaloniki, Greece",
     "coords": [
-      40.64032,
-      22.93527
+      40.63367, 
+      22.95607      
     ]
   },
   {
     "name": "Athens, Greece",
     "desc": "Work – National Observatory of Athens, Athens, Greece",
     "coords": [
-      37.97556,
-      23.73483
+      38.04756,
+      23.86481
     ]
   },
   {
     "name": "Institute of Astronomy, Astrophysics, Space Applications and Remote Sensing, National Observatory of Athens, Penteli, Greece",
     "desc": "Work – IAASARS, National Observatory of Athens, Greece",
     "coords": [
-      38.05059,
-      23.86146
+      38.04756,
+      23.86481
     ]
   },
   {
     "name": "Madrid, Spain",
     "desc": "Work – Spanish National Research Council (CSIC), Madrid, Spain",
     "coords": [
-      40.41678,
-      -3.70351
+      40.44183,
+      -3.68687
     ]
   },
   {
     "name": "Madrid, Spain",
     "desc": "Work – Departamento de Fisica Teorica, Universidad Autonoma de Madrid (UAM), Spain",
-    "coords": [
-      40.41678,
-      -3.70351
+    "coords": [      
+      40.54633,
+      -3.69640      
     ]
   },
   {
     "name": "University of Bath, UK",
     "desc": "Work – Department of Physics, University of Bath, UK",
     "coords": [
-      51.37669,
-      -2.32342
+      51.37977,
+      -2.32706
     ]
   },
   {
     "name": "Bristol, UK",
     "desc": "Work – Institute of Physics Publishing, Bristol, UK",
     "coords": [
-      51.4538,
-      -2.5973
+      51.45312,
+      -2.58246
     ]
   },
   {
     "name": "London, UK",
     "desc": "Work – Space & Atmospheric Physics Group, Blackett Laboratory, Imperial College, London, UK",
     "coords": [
-      51.48933,
-      -0.14406
+      51.49961,
+      -0.17913
     ]
   },
   {
     "name": "Oxford, UK",
     "desc": "Work – Government Fusion Division, Culham Laboratory, Oxford, UK",
-    "coords": [
-      51.75201,
-      -1.25785
+    "coords": [      
+      51.65760,
+      -1.22566      
     ]
   },
   {
@@ -1328,19 +1328,11 @@
     ]
   },
   {
-    "name": "Southwestern Institute of Physics",
+    "name": "University of St Andrews",
     "desc": "Publication – Wave-particle dynamics in a hot inhomogenous fusion plasma (PhD)",
     "coords": [
-      30.57343,
-      104.02112
-    ]
-  },
-  {
-    "name": "Southwestern Institute of Physics, P.O. Box 432, Chengdu 610041, People’s Republic of China — Southwestern Institute of Physics, Chengdu 610041, People’s Republic of China",
-    "desc": "Publication – Wave-particle dynamics in a hot inhomogenous fusion plasma (PhD)",
-    "coords": [
-      30.65987,
-      104.06332
+      56.33982,
+      -2.81179
     ]
   },
   {
