@@ -1,15 +1,15 @@
 {
   "bio": {
     "paragraphs": [
-      "I was born in the UK when the monthly mean CO₂ concentration was almost 100 parts per million less at 325.68 ± 0.12 ppm. My background is in Pure & Applied Physics (BSc:I, University of Manchester) and Applied Mathematics (PhD, University of St Andrews), and I have 20+ years research experience in climate and environmental data record production, quality control and curation, satellite and in situ remote sensing, applied statistics and AI/ML algorithm development.",
-      "More recently, I helped update the global land surface air temperature record using Kriging for the GloSAT project at the Climatic Research Unit (CRU), and computed climate warming stripes for the Age of Mammals (66 Ma) for the Climate Mural for our Times permanently installed in the Norwich City Hall.",
-      "I am a member of the Marie-Curie Alumni Association and learned Greek and Spanish while working abroad. I like cycle touring and music, and once upon a time when chess was still a human sport, I represented Hong Kong in the World Junior Chess Championships in Adelaide (where I met my first wild kangaroo)."
+      "I was born in the UK when the monthly mean CO₂ concentration at Mauna Loa was almost 100 parts per million less at 325.68 ± 0.12 ppm. My background is in Pure & Applied Physics (BSc:I, University of Manchester) and Applied Mathematics (PhD, University of St Andrews), and I have 20+ years research experience in climate and environmental data record production, quality control & curation, satellite and in situ remote sensing, applied statistics and algorithm development.",
+      "More recently, I helped update the global land surface air temperature record using Kriging for the GloSAT project while at the Climatic Research Unit (CRU), and computed climate warming stripes for the Age of Mammals (66 Ma) for the Climate Mural for our Times permanently installed in the Norwich City Hall.",
+      "I am a member of the Marie-Curie Alumni Association and learned Greek and Spanish while working abroad. I like cycle touring and folk music, and once upon a time when chess was still a human sport, I represented Hong Kong in the World Junior Chess Championships in Adelaide (where I met my first wild kangaroo)."
     ],
     "interests": [
-      "Climate & environmental data records",
-      "Observational data quality control",
-      "AI/ML algorithm development",
-      "Dataviz & data aesthetics"
+      "DataViz & aesthetics",
+      "Algorithm development",
+      "Observational data quality",
+      "Climate & environmental data"
     ],
     "education": [
       "PhD: Applied Mathematics – University of St Andrews",
@@ -22,7 +22,7 @@
       "org": "Centre for Environment, Fisheries & Aquaculture Science (CEFAS), Lowestoft, UK",
       "link": "https://www.cefas.co.uk/",
       "dates": "Dec 2024 – present",
-      "desc": "Marine and riverine data record acquisition, gap analysis & quality control."
+      "desc": "Marine and riverine data record acquisition, gap analysis & quality assurance."
     },
     {
       "title": "Senior Research Associate",
