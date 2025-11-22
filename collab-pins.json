@@ -336,14 +336,6 @@
     ]
   },
   {
-    "name": "A-T Society",
-    "desc": "Publication – Satellite-based time-series of sea-surface temperature since 1981 for climate applications",
-    "coords": [
-      60.23121,
-      24.85863
-    ]
-  },
-  {
     "name": "European Space Research and Technology Centre",
     "desc": "Publication – Satellite-based time-series of sea-surface temperature since 1981 for climate applications",
     "coords": [
@@ -536,14 +528,6 @@
     ]
   },
   {
-    "name": "Ford Motor Company (United States) — Ford Motor Company",
-    "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
-    "coords": [
-      -38.10269,
-      144.35799
-    ]
-  },
-  {
     "name": "Goddard Space Flight Center",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
@@ -712,14 +696,6 @@
     ]
   },
   {
-    "name": "Research and Advanced Engineering, Ford Motor Company, Dearborn, Michigan, US — Research and Advanced Engineering, Michigan, US",
-    "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
-    "coords": [
-      43.6212,
-      -84.68243
-    ]
-  },
-  {
     "name": "NASA Goddard Space Flight Center, Greenbelt, Maryland, US — NASA Goddard Space Flight Center, Maryland, US",
     "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
     "coords": [
@@ -805,14 +781,6 @@
     "coords": [
       34.95508,
       -97.26841
-    ]
-  },
-  {
-    "name": "Enable Midstream Partners, Headquarters, Oklahoma City, US — Enable Midstream Partners, Oklahoma City, US",
-    "desc": "Publication – SPARC Report 9: long-term ozone trends and uncertainties in the stratosphere",
-    "coords": [
-      35.47299,
-      -97.51705
     ]
   },
   {
