@@ -600,13 +600,13 @@
       "year": 2008,
       "type": "journal",
       "summary": "Argues that access to scientific ideas and their peer-review has been hijacked by paywalls imposed by an overpriced journal monopoly; explains why the journal impact factor is a flawed metric; fits the Zipf law for journal impact factors; makes the case for free open access and open peer-review.",
-      "pdf": "https://www.int-res.com/articles/esep2008/8/e008p017.pdf",
-      "doi": "https://doi.org/10.3354/esep00086",
+      "pdf": "https://digital.csic.es/bitstream/10261/246182/1/The%20siege%20of%20science.pdf",
+      "doi": "https://digital.csic.es/handle/10261/246182",
       "cite": "",
       "data": "",
       "code": "",
       "viz": "",
-      "thumb": "thumbnails/pub-2008-siege.png"
+      "thumb": "thumbnails/pub-2008-siege.png"     
     },
     {
       "id": "on-the-deduction-of-galaxy-abundances",
