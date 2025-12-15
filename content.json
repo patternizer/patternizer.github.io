@@ -167,6 +167,22 @@
   ],
   "publications": [
     {
+      "id": "2025-glosat-ref-analysis",
+      "title": "An observational record of global gridded near-surface air temperature change over land and ocean from 1781",
+      "authors": "Morice, Berry, Cornes, Cowtan, Cropper, Hawkins, Kennedy, Osborn, Rayner, Rivas, Schurer, Taylor, Teleti, Wallis, Winn, Kent",
+      "year": 2025,
+      "type": "journal",
+      "summary": "GloSAT reference analysis of monthly gridded land and ocean air temperature anomalies back to the 1780s; includes LAT exposure bias corrections & updated normals; uses MAT not SST; estimates MAT diurnal heating bias corrections; enables use of daytime MAT; blends via HadCRUT5 methods.",
+      "pdf": "https://essd.copernicus.org/articles/17/7079/2025/essd-17-7079-2025.pdf",
+      "doi": "https://doi.org/10.5194/essd-17-7079-2025",
+      "cite": "Morice, C. P., Berry, D. I., Cornes, R. C., Cowtan, K., Cropper, T., Hawkins, E., Kennedy, J. J., Osborn, T. J., Rayner, N. A., Recinos Rivas, B., Schurer, A. P., Taylor, M., Teleti, P. R., Wallis, E. J., Winn, J., and Kent, E. C.: An observational record of global gridded near-surface air temperature change over land and ocean from 1781, Earth Syst. Sci. Data, 17, 7079–7100, https://doi.org/10.5194/essd-17-7079-2025, 2025.",
+      "data": "https://catalogue.ceda.ac.uk/uuid/a2519624a593402a83246bd359d098be/",
+      "code": "https://github.com/patternizer/glosat-analysis-station-validation",
+      "viz": "https://crudata.uea.ac.uk/cru/projects/glosat/GloSATref.1.0.0.0-alpha.4/maps/map-month-1877-10.html",
+      "thumb": "thumbnails/pub-2025-glosat-ref.png",
+      "supplement": "https://essd.copernicus.org/articles/17/7079/2025/essd-17-7079-2025-supplement.pdf"
+    },
+    {
       "id": "2025-glosat-latsdb",
       "title": "GloSAT LATsdb: a global compilation of land air temperature station records with updated climatological normals from local expectation kriging",
       "authors": "Taylor, Osborn, Cowtan, Morice, Jones, Wallis, Lister",
@@ -174,28 +190,12 @@
       "type": "journal",
       "summary": "GloSAT monthly mean land air temperatures & climatological normals for 11865 weather stations;  back-extends CRUTEM5 to 1781; includes exposure bias corrections; adopts hierarchical clustering; applies local expectation kriging with station holdout.",
       "pdf": "https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/gdj3.70024",
-      "doi": "https://doi.org/10.1002/gdj3.70024",
+      "doi": "https://essd.copernicus.org/articles/17/7079/2025/",
       "cite": "Taylor, M., Osborn, T. J., Cowtan, K., Morice, C. P., Jones, P. D., Wallis, E. J., & Lister, D. H. (2025). GloSAT LATsdb: a global compilation of land air temperature station records with updated climatological normals from local expectation kriging. Geoscience Data Journal, 12(4), 1-21",
       "data": "https://doi.org/10.5281/zenodo.14888902",
       "code": "https://github.com/patternizer/glosat-hca",
       "viz": "https://crudata.uea.ac.uk/cru/projects/glosat/GloSATref.1.0.0.0-alpha.4/maps/map-month-1877-10.html",
       "thumb": "thumbnails/pub-2025-glosat-latsdb.png"
-    },
-    {
-      "id": "2024-glosat-ref-analysis",
-      "title": "An observational record of global gridded near surface air temperature change over land and ocean from 1781",
-      "authors": "Morice, Berry, Cornes, Cowtan, Cropper, Hawkins, Kennedy, Osborn, Rayner, Rivas, Schurer, Taylor, Teleti, Wallis, Winn, Kent",
-      "year": 2024,
-      "type": "journal",
-      "summary": "GloSAT reference analysis of monthly gridded land and ocean air temperature anomalies back to the 1780s; includes LAT exposure bias corrections & updated normals; uses MAT not SST; estimates MAT diurnal heating bias corrections; enables use of daytime MAT; blends via HadCRUT5 methods.",
-      "pdf": "https://essd.copernicus.org/preprints/essd-2024-500/essd-2024-500.pdf",
-      "doi": "https://doi.org/10.5194/essd-2024-500",
-      "cite": "",
-      "data": "",
-      "code": "https://github.com/patternizer/glosat-analysis-station-validation",
-      "viz": "https://crudata.uea.ac.uk/cru/projects/glosat/GloSATref.1.0.0.0-alpha.4/maps/map-month-1877-10.html",
-      "thumb": "thumbnails/pub-2025-glosat-ref.png",
-      "supplement": "https://essd.copernicus.org/preprints/essd-2024-500/essd-2024-500-supplement.pdf"
     },
     {
       "id": "2024-exposure-biases",
