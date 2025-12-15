@@ -153,7 +153,7 @@
   },
   {
     "name": "Met Office",
-    "desc": "Publication – An observational record of global gridded near surface air temperature change over land and ocean from 1781",
+    "desc": "Publication – An observational record of global gridded near-surface air temperature change over land and ocean from 1781",
     "coords": [
       50.72702,
       -3.47516
@@ -161,7 +161,7 @@
   },
   {
     "name": "National Oceanography Centre",
-    "desc": "Publication – An observational record of global gridded near surface air temperature change over land and ocean from 1781",
+    "desc": "Publication – An observational record of global gridded near-surface air temperature change over land and ocean from 1781",
     "coords": [
       50.89263,
       -1.3947
@@ -169,7 +169,7 @@
   },
   {
     "name": "University of York",
-    "desc": "Publication – An observational record of global gridded near surface air temperature change over land and ocean from 1781",
+    "desc": "Publication – An observational record of global gridded near-surface air temperature change over land and ocean from 1781",
     "coords": [
       53.94539,
       -1.03146
@@ -177,7 +177,7 @@
   },
   {
     "name": "University of Reading",
-    "desc": "Publication – An observational record of global gridded near surface air temperature change over land and ocean from 1781",
+    "desc": "Publication – An observational record of global gridded near-surface air temperature change over land and ocean from 1781",
     "coords": [
       51.43876,
       -0.93692      
@@ -185,7 +185,7 @@
   },
   {
     "name": "University of East Anglia",
-    "desc": "Publication – An observational record of global gridded near surface air temperature change over land and ocean from 1781",
+    "desc": "Publication – An observational record of global gridded near-surface air temperature change over land and ocean from 1781",
     "coords": [
       52.62106,
       1.23562
@@ -193,7 +193,7 @@
   },
   {
     "name": "University of Edinburgh",
-    "desc": "Publication – An observational record of global gridded near surface air temperature change over land and ocean from 1781",
+    "desc": "Publication – An observational record of global gridded near-surface air temperature change over land and ocean from 1781",
     "coords": [
       55.94408,
       -3.18837
